@@ -1,0 +1,25 @@
+# Virtual environment
+venv/
+.venv/
+.env
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Environment variables
+.env
+
+# Generated course outputs (regenerate via main.py)
+output/*.json
+output/*.pptx
+output/*.srt
+output/*.mp4
+output/slide_images/
+output/audio/
+output/metadata/
+
+# OS files
+Thumbs.db
+.DS_Store

@@ -1,0 +1,10 @@
+openai
+python-dotenv
+pydantic
+pypdf
+python-pptx
+pillow
+moviepy
+edge-tts
+streamlit
+mutagen
