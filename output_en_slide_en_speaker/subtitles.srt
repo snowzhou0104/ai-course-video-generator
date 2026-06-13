@@ -1,0 +1,403 @@
+1
+00:00:00,000 --> 00:00:02,496
+In this slide, we will explore the core
+
+2
+00:00:02,496 --> 00:00:05,376
+departments that define major tech companies.
+
+3
+00:00:05,376 --> 00:00:11,181
+These departments include Ads Monetization, AI/ML Platforms, Cloud Infrastructure,
+
+4
+00:00:11,181 --> 00:00:15,216
+and Growth, which are crucial for revenue and innovation.
+
+5
+00:00:15,216 --> 00:00:19,202
+Each company, such as Google, Amazon, Microsoft, and Apple,
+
+6
+00:00:19,202 --> 00:00:24,336
+places varying emphasis on these departments based on their business models.
+
+7
+00:00:24,336 --> 00:00:28,387
+For instance, Google focuses heavily on Ads and AI,
+
+8
+00:00:28,387 --> 00:00:32,280
+while Amazon prioritizes its AWS and Marketplace.
+
+9
+00:00:32,328 --> 00:00:35,140
+Let's delve into how Ads Monetization serves
+
+10
+00:00:35,140 --> 00:00:38,208
+as a critical revenue driver for tech companies.
+
+11
+00:00:38,208 --> 00:00:42,713
+Departments focused on Ads are pivotal as they directly generate revenue,
+
+12
+00:00:42,713 --> 00:00:45,552
+especially for companies like Google and Meta.
+
+13
+00:00:45,552 --> 00:00:48,510
+For example, Google Services revenue growth
+
+14
+00:00:48,510 --> 00:00:51,538
+is largely driven by Search and YouTube ads,
+
+15
+00:00:51,538 --> 00:00:54,840
+which alone generated over $60 billion annually.
+
+16
+00:00:54,840 --> 00:00:58,597
+Similarly, Amazon's advertising business has
+
+17
+00:00:58,597 --> 00:01:02,269
+become a major profit source alongside AWS,
+
+18
+00:01:02,269 --> 00:01:07,392
+which reported $14.2 billion in operating income in Q1 2026.
+
+19
+00:01:07,440 --> 00:01:12,624
+Now, let's examine the role of recommendation algorithms in tech companies.
+
+20
+00:01:12,624 --> 00:01:17,424
+These systems are crucial as they dictate what users see and interact with,
+
+21
+00:01:17,424 --> 00:01:20,112
+directly impacting engagement and revenue.
+
+22
+00:01:20,112 --> 00:01:25,270
+For instance, TikTok's recommendation system is central to its user experience,
+
+23
+00:01:25,270 --> 00:01:28,208
+while Netflix and Amazon also rely heavily on
+
+24
+00:01:28,208 --> 00:01:32,256
+personalized recommendations to drive subscriptions and sales.
+
+25
+00:01:32,256 --> 00:01:35,844
+The technical complexity of these algorithms makes them one of
+
+26
+00:01:35,844 --> 00:01:39,432
+the most strategically important areas within these companies.
+
+27
+00:01:39,480 --> 00:01:44,400
+Next, let's discuss the concept of Growth within major tech companies.
+
+28
+00:01:44,400 --> 00:01:49,882
+Unlike traditional marketing, Growth encompasses data analysis, experimentation,
+
+29
+00:01:49,882 --> 00:01:53,856
+and user lifecycle management to optimize user engagement.
+
+30
+00:01:53,856 --> 00:01:58,762
+This includes strategies for user acquisition, retention, and conversion,
+
+31
+00:01:58,762 --> 00:02:01,584
+which are essential for long-term success.
+
+32
+00:02:01,584 --> 00:02:03,486
+Companies like Meta, TikTok,
+
+33
+00:02:03,486 --> 00:02:09,192
+and Amazon have established dedicated Growth teams to focus on these critical areas.
+
+34
+00:02:09,240 --> 00:02:14,040
+Let's explore the significance of core product teams within tech companies.
+
+35
+00:02:14,040 --> 00:02:18,108
+While all product teams contribute, only a few are deemed core,
+
+36
+00:02:18,108 --> 00:02:22,176
+as they control critical user entry points and revenue streams.
+
+37
+00:02:22,176 --> 00:02:26,405
+For example, Google’s Search and YouTube, Amazon’s Marketplace,
+
+38
+00:02:26,405 --> 00:02:31,104
+and Apple’s iOS are essential for their respective companies' success.
+
+39
+00:02:31,104 --> 00:02:34,597
+These core product lines typically receive high attention
+
+40
+00:02:34,597 --> 00:02:38,520
+from executives due to their direct impact on company valuation.
+
+41
+00:02:38,568 --> 00:02:43,800
+Now, let's look at the foundational role of Cloud and Infrastructure departments.
+
+42
+00:02:43,800 --> 00:02:45,840
+In today's AI-driven landscape,
+
+43
+00:02:45,840 --> 00:02:50,578
+these departments have become essential for scalability and performance,
+
+44
+00:02:50,578 --> 00:02:53,736
+with Microsoft Azure and AWS leading the charge.
+
+45
+00:02:53,736 --> 00:02:59,667
+For instance, Microsoft reported Azure revenue exceeding $75 billion in 2025,
+
+46
+00:02:59,667 --> 00:03:03,288
+highlighting its importance as a growth engine.
+
+47
+00:03:03,288 --> 00:03:08,223
+Similarly, Nvidia's Data Center revenue reached $75.2 billion,
+
+48
+00:03:08,223 --> 00:03:12,600
+showcasing the increasing demand for AI infrastructure.
+
+49
+00:03:12,648 --> 00:03:18,552
+Next, we will discuss the evolution of AI/ML platforms within tech companies.
+
+50
+00:03:18,552 --> 00:03:21,531
+AI/ML departments have transitioned from purely
+
+51
+00:03:21,531 --> 00:03:25,968
+research-focused to core production units that address business needs.
+
+52
+00:03:25,968 --> 00:03:31,465
+Key areas include large language models, ads models, and AI safety protocols,
+
+53
+00:03:31,465 --> 00:03:34,464
+which are crucial for operational success.
+
+54
+00:03:34,464 --> 00:03:38,797
+Companies like Google and Microsoft are heavily investing in these areas,
+
+55
+00:03:38,797 --> 00:03:42,240
+reflecting their growing importance in the tech landscape.
+
+56
+00:03:42,288 --> 00:03:47,520
+Let's explore the critical role of data and experimentation in tech companies.
+
+57
+00:03:47,520 --> 00:03:50,761
+These departments serve as decision-making centers,
+
+58
+00:03:50,761 --> 00:03:54,384
+guiding product strategies based on data-driven insights.
+
+59
+00:03:54,384 --> 00:03:57,631
+Tech companies rely on methods like A/B testing and
+
+60
+00:03:57,631 --> 00:04:00,814
+causal analysis to inform their product decisions,
+
+61
+00:04:00,814 --> 00:04:03,552
+ensuring they are backed by solid evidence.
+
+62
+00:04:03,552 --> 00:04:08,598
+Roles such as Data Scientists and Engineers are vital in these departments,
+
+63
+00:04:08,598 --> 00:04:11,760
+particularly in Ads, Growth, and Product teams.
+
+64
+00:04:11,808 --> 00:04:16,324
+Now, let's discuss the increasing importance of trust, safety,
+
+65
+00:04:16,324 --> 00:04:18,072
+and privacy departments.
+
+66
+00:04:18,072 --> 00:04:21,002
+These functions have evolved from support roles to
+
+67
+00:04:21,002 --> 00:04:24,576
+essential departments that ensure compliance and user safety.
+
+68
+00:04:24,576 --> 00:04:28,996
+They focus on areas like advertising privacy, content moderation,
+
+69
+00:04:28,996 --> 00:04:33,552
+and account security, which are critical for sustaining operations.
+
+70
+00:04:33,552 --> 00:04:35,590
+Companies such as Meta, Google,
+
+71
+00:04:35,590 --> 00:04:40,848
+and Apple are heavily investing in these areas to mitigate regulatory pressures.
+
+72
+00:04:40,896 --> 00:04:43,716
+Next, let's examine the role of marketplace
+
+73
+00:04:43,716 --> 00:04:46,536
+and commerce departments in tech companies.
+
+74
+00:04:46,536 --> 00:04:51,520
+These departments are particularly vital for companies like Amazon and Apple,
+
+75
+00:04:51,520 --> 00:04:55,080
+as they encompass logistics, payments, and fulfillment.
+
+76
+00:04:55,080 --> 00:04:59,352
+For Amazon, the Marketplace is not just an e-commerce platform but
+
+77
+00:04:59,352 --> 00:05:02,976
+a comprehensive system that integrates various services.
+
+78
+00:05:02,976 --> 00:05:06,433
+Apple's Services revenue has also reached record highs,
+
+79
+00:05:06,433 --> 00:05:10,392
+showcasing the importance of this sector beyond hardware sales.
+
+80
+00:05:10,440 --> 00:05:16,248
+Now, let's discuss the significance of developer ecosystems in major tech companies.
+
+81
+00:05:16,248 --> 00:05:19,557
+These platforms are not just about immediate revenue;
+
+82
+00:05:19,557 --> 00:05:23,928
+they create long-term competitive advantages by locking in developers.
+
+83
+00:05:23,928 --> 00:05:28,328
+For instance, Microsoft’s Azure and Google Cloud provide extensive
+
+84
+00:05:28,328 --> 00:05:31,728
+tools and resources to foster developer engagement.
+
+85
+00:05:31,728 --> 00:05:34,527
+Nvidia exemplifies this by building a strong
+
+86
+00:05:34,527 --> 00:05:37,581
+moat through its CUDA platform and AI libraries,
+
+87
+00:05:37,581 --> 00:05:39,744
+which enhance its market position.
+
+88
+00:05:39,792 --> 00:05:44,784
+Finally, let's look at the ranking of core departments in major tech companies.
+
+89
+00:05:44,784 --> 00:05:49,521
+The most critical departments, or Tier 1, include Ads Monetization,
+
+90
+00:05:49,521 --> 00:05:53,976
+Recommendation Systems, Core Product, and Cloud Infrastructure.
+
+91
+00:05:53,976 --> 00:05:59,526
+Tier 2 departments, while important, may not be the top priority for every company,
+
+92
+00:05:59,526 --> 00:06:01,800
+including Growth and Data Science.
+
+93
+00:06:01,800 --> 00:06:05,878
+Lastly, Tier 3 departments, such as Enterprise Sales and HR,
+
+94
+00:06:05,878 --> 00:06:09,888
+are essential but typically not part of the technical core.
+
+95
+00:06:09,936 --> 00:06:14,976
+Let's take a closer look at the core departments specific to major tech companies.
+
+96
+00:06:14,976 --> 00:06:20,455
+For Google, the most core departments include Search, Ads, YouTube, and Cloud,
+
+97
+00:06:20,455 --> 00:06:23,616
+which drive both revenue and user engagement.
+
+98
+00:06:23,616 --> 00:06:29,156
+Amazon's core departments encompass AWS, Marketplace, Logistics, and Ads,
+
+99
+00:06:29,156 --> 00:06:32,040
+reflecting its diverse business model.
+
+100
+00:06:32,040 --> 00:06:36,522
+Apple's core includes the iPhone, Services, Ecosystem, and Privacy,
+
+101
+00:06:36,522 --> 00:06:40,536
+showcasing its integrated approach to hardware and software.

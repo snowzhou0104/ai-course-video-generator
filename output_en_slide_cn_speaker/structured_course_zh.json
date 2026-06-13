@@ -1,0 +1,434 @@
+{
+  "course_title": "Core Departments in Major Tech Companies",
+  "slides": [
+    {
+      "slide_index": 1,
+      "title": "Core Departments Overview",
+      "bullets": [
+        "Major departments include Ads, AI, Cloud, and Growth",
+        "Different companies prioritize departments differently",
+        "Examples: Google, Amazon, Microsoft, and Apple"
+      ],
+      "narration_segments": [
+        "在这一页中，我们将探讨定义主要科技公司的核心部门。",
+        "这些部门包括广告变现、人工智能/机器学习平台、云基础设施和增长，这些都是推动收入和创新的重要因素。",
+        "每个公司，比如谷歌、亚马逊、微软和苹果，都会根据其商业模式对这些部门给予不同的重视。",
+        "例如，谷歌非常重视广告和人工智能，而亚马逊则将重心放在其AWS和市场上。"
+      ],
+      "speaker_script": "在这一页中，我们将探讨定义主要科技公司的核心部门。这些部门包括广告变现、人工智能/机器学习平台、云基础设施和增长，这些都是推动收入和创新的重要因素。每个公司，比如谷歌、亚马逊、微软和苹果，都会根据其商业模式对这些部门给予不同的重视。例如，谷歌非常重视广告和人工智能，而亚马逊则将重心放在其AWS和市场上。",
+      "highlight_plan": [
+        {
+          "bullet_index": 0,
+          "narration_segment_index": 1,
+          "text": "Major departments include Ads, AI, Cloud, and Growth"
+        },
+        {
+          "bullet_index": 1,
+          "narration_segment_index": 2,
+          "text": "Different companies prioritize departments differently"
+        },
+        {
+          "bullet_index": 2,
+          "narration_segment_index": 3,
+          "text": "Examples: Google, Amazon, Microsoft, and Apple"
+        }
+      ]
+    },
+    {
+      "slide_index": 2,
+      "title": "Ads Monetization as Revenue Driver",
+      "bullets": [
+        "Ads departments are closest to revenue generation",
+        "Google and Meta rely heavily on advertising revenue",
+        "Amazon's AWS and advertising also contribute significantly"
+      ],
+      "narration_segments": [
+        "让我们深入探讨广告变现如何成为科技公司重要的收入驱动力。",
+        "专注于广告的部门至关重要，因为它们直接产生收入，尤其是对于像Google和Meta这样的公司。",
+        "例如，Google Services的收入增长主要得益于搜索和YouTube广告，这两者每年就创造了超过600亿美元的收入。",
+        "同样，亚马逊的广告业务也成为了与AWS并肩的重要利润来源，AWS在2026年第一季度报告的营业收入达到了142亿美元。"
+      ],
+      "speaker_script": "让我们深入探讨广告变现如何成为科技公司重要的收入驱动力。专注于广告的部门至关重要，因为它们直接产生收入，尤其是对于像Google和Meta这样的公司。例如，Google Services的收入增长主要得益于搜索和YouTube广告，这两者每年就创造了超过600亿美元的收入。同样，亚马逊的广告业务也成为了与AWS并肩的重要利润来源，AWS在2026年第一季度报告的营业收入达到了142亿美元。",
+      "highlight_plan": [
+        {
+          "bullet_index": 0,
+          "narration_segment_index": 1,
+          "text": "Ads departments are closest to revenue generation"
+        },
+        {
+          "bullet_index": 1,
+          "narration_segment_index": 2,
+          "text": "Google and Meta rely heavily on advertising revenue"
+        },
+        {
+          "bullet_index": 2,
+          "narration_segment_index": 3,
+          "text": "Amazon's AWS and advertising also contribute significantly"
+        }
+      ]
+    },
+    {
+      "slide_index": 3,
+      "title": "Importance of Recommendation Algorithms",
+      "bullets": [
+        "Recommendation systems drive user engagement and revenue",
+        "Core departments include Search and Feed Ranking",
+        "Examples: TikTok, Netflix, and Amazon recommendations"
+      ],
+      "narration_segments": [
+        "现在，让我们来探讨推荐算法在科技公司中的作用。",
+        "这些系统至关重要，因为它们决定了用户看到和互动的内容，直接影响用户参与度和收入。",
+        "例如，TikTok的推荐系统是其用户体验的核心，而Netflix和Amazon也非常依赖个性化推荐来推动订阅和销售。",
+        "这些算法的技术复杂性使它们成为这些公司中最具战略重要性的领域之一。"
+      ],
+      "speaker_script": "现在，让我们来探讨推荐算法在科技公司中的作用。这些系统至关重要，因为它们决定了用户看到和互动的内容，直接影响用户参与度和收入。例如，TikTok的推荐系统是其用户体验的核心，而Netflix和Amazon也非常依赖个性化推荐来推动订阅和销售。这些算法的技术复杂性使它们成为这些公司中最具战略重要性的领域之一。",
+      "highlight_plan": [
+        {
+          "bullet_index": 0,
+          "narration_segment_index": 1,
+          "text": "Recommendation systems drive user engagement and revenue"
+        },
+        {
+          "bullet_index": 1,
+          "narration_segment_index": 2,
+          "text": "Core departments include Search and Feed Ranking"
+        },
+        {
+          "bullet_index": 2,
+          "narration_segment_index": 3,
+          "text": "Examples: TikTok, Netflix, and Amazon recommendations"
+        }
+      ]
+    },
+    {
+      "slide_index": 4,
+      "title": "Growth Beyond Traditional Marketing",
+      "bullets": [
+        "Growth focuses on data, experimentation, and user lifecycle",
+        "Includes user acquisition, retention, and conversion strategies",
+        "Major companies have dedicated Growth teams"
+      ],
+      "narration_segments": [
+        "接下来，我们来讨论一下大型科技公司中的增长概念。",
+        "与传统营销不同，增长侧重于数据分析、实验和用户生命周期管理，以优化用户参与度。",
+        "这包括用户获取、留存和转化的策略，这些对于长期成功至关重要。",
+        "像Meta、TikTok和Amazon这样的公司都设立了专门的增长团队，专注于这些关键领域。"
+      ],
+      "speaker_script": "接下来，我们来讨论一下大型科技公司中的增长概念。与传统营销不同，增长侧重于数据分析、实验和用户生命周期管理，以优化用户参与度。这包括用户获取、留存和转化的策略，这些对于长期成功至关重要。像Meta、TikTok和Amazon这样的公司都设立了专门的增长团队，专注于这些关键领域。",
+      "highlight_plan": [
+        {
+          "bullet_index": 0,
+          "narration_segment_index": 1,
+          "text": "Growth focuses on data, experimentation, and user lifecycle"
+        },
+        {
+          "bullet_index": 1,
+          "narration_segment_index": 2,
+          "text": "Includes user acquisition, retention, and conversion strategies"
+        },
+        {
+          "bullet_index": 2,
+          "narration_segment_index": 3,
+          "text": "Major companies have dedicated Growth teams"
+        }
+      ]
+    },
+    {
+      "slide_index": 5,
+      "title": "Core Product Teams and Their Impact",
+      "bullets": [
+        "Not all product teams are equally important",
+        "Core teams control user entry points and revenue sources",
+        "Examples: Google Search, Amazon Marketplace, Apple iOS"
+      ],
+      "narration_segments": [
+        "让我们来探讨一下核心产品团队在科技公司中的重要性。",
+        "虽然所有产品团队都有贡献，但只有少数被视为核心团队，因为它们控制着关键的用户入口和收入来源。",
+        "例如，Google 的搜索和 YouTube、Amazon 的市场以及 Apple 的 iOS 对各自公司的成功至关重要。",
+        "这些核心产品线通常会受到高层管理者的高度关注，因为它们直接影响公司的估值。"
+      ],
+      "speaker_script": "让我们来探讨一下核心产品团队在科技公司中的重要性。虽然所有产品团队都有贡献，但只有少数被视为核心团队，因为它们控制着关键的用户入口和收入来源。例如，Google 的搜索和 YouTube、Amazon 的市场以及 Apple 的 iOS 对各自公司的成功至关重要。这些核心产品线通常会受到高层管理者的高度关注，因为它们直接影响公司的估值。",
+      "highlight_plan": [
+        {
+          "bullet_index": 0,
+          "narration_segment_index": 1,
+          "text": "Not all product teams are equally important"
+        },
+        {
+          "bullet_index": 1,
+          "narration_segment_index": 2,
+          "text": "Core teams control user entry points and revenue sources"
+        },
+        {
+          "bullet_index": 2,
+          "narration_segment_index": 3,
+          "text": "Examples: Google Search, Amazon Marketplace, Apple iOS"
+        }
+      ]
+    },
+    {
+      "slide_index": 6,
+      "title": "Cloud and Infrastructure's Growing Importance",
+      "bullets": [
+        "Cloud departments are foundational in the AI era",
+        "Microsoft Azure and AWS are major profit engines",
+        "Nvidia's Data Center revenue shows industry growth"
+      ],
+      "narration_segments": [
+        "现在，让我们来看看云和基础设施部门的基础性作用。",
+        "在当今以人工智能为驱动的环境中，这些部门已成为可扩展性和性能的关键，微软Azure和AWS正引领这一潮流。",
+        "例如，微软报告称，2025年Azure的收入超过750亿美元，突显了它作为增长引擎的重要性。",
+        "同样，Nvidia的数据中心收入达到了752亿美元，展示了对人工智能基础设施日益增长的需求。"
+      ],
+      "speaker_script": "现在，让我们来看看云和基础设施部门的基础性作用。在当今以人工智能为驱动的环境中，这些部门已成为可扩展性和性能的关键，微软Azure和AWS正引领这一潮流。例如，微软报告称，2025年Azure的收入超过750亿美元，突显了它作为增长引擎的重要性。同样，Nvidia的数据中心收入达到了752亿美元，展示了对人工智能基础设施日益增长的需求。",
+      "highlight_plan": [
+        {
+          "bullet_index": 0,
+          "narration_segment_index": 1,
+          "text": "Cloud departments are foundational in the AI era"
+        },
+        {
+          "bullet_index": 1,
+          "narration_segment_index": 2,
+          "text": "Microsoft Azure and AWS are major profit engines"
+        },
+        {
+          "bullet_index": 2,
+          "narration_segment_index": 3,
+          "text": "Nvidia's Data Center revenue shows industry growth"
+        }
+      ]
+    },
+    {
+      "slide_index": 7,
+      "title": "AI/ML Platforms as Core Production Departments",
+      "bullets": [
+        "AI/ML has shifted from research to production",
+        "Core areas include LLMs, Ads Models, and AI Safety",
+        "Major investments by Google, Microsoft, and others"
+      ],
+      "narration_segments": [
+        "接下来，我们将讨论科技公司中AI/ML平台的发展演变。",
+        "AI/ML部门已经从单纯的研究转变为满足业务需求的核心生产单位。",
+        "关键领域包括大型语言模型、广告模型和AI安全协议，这些对运营成功至关重要。",
+        "像Google和Microsoft这样的公司正在这些领域进行大量投资，反映了它们在科技领域日益增长的重要性。"
+      ],
+      "speaker_script": "接下来，我们将讨论科技公司中AI/ML平台的发展演变。AI/ML部门已经从单纯的研究转变为满足业务需求的核心生产单位。关键领域包括大型语言模型、广告模型和AI安全协议，这些对运营成功至关重要。像Google和Microsoft这样的公司正在这些领域进行大量投资，反映了它们在科技领域日益增长的重要性。",
+      "highlight_plan": [
+        {
+          "bullet_index": 0,
+          "narration_segment_index": 1,
+          "text": "AI/ML has shifted from research to production"
+        },
+        {
+          "bullet_index": 1,
+          "narration_segment_index": 2,
+          "text": "Core areas include LLMs, Ads Models, and AI Safety"
+        },
+        {
+          "bullet_index": 2,
+          "narration_segment_index": 3,
+          "text": "Major investments by Google, Microsoft, and others"
+        }
+      ]
+    },
+    {
+      "slide_index": 8,
+      "title": "Data and Experimentation as Decision-Making Centers",
+      "bullets": [
+        "Data departments guide product decisions",
+        "Utilize A/B testing and causal analysis",
+        "Roles include Data Scientists and Engineers"
+      ],
+      "narration_segments": [
+        "让我们来探讨数据和实验在科技公司中扮演的重要角色。",
+        "这些部门作为决策中心，根据数据驱动的洞察来指导产品策略。",
+        "科技公司依赖A/B测试和因果分析等方法来支持他们的产品决策，确保这些决策有坚实的证据基础。",
+        "数据科学家和工程师等角色在这些部门中至关重要，尤其是在广告、增长和产品团队中。"
+      ],
+      "speaker_script": "让我们来探讨数据和实验在科技公司中扮演的重要角色。这些部门作为决策中心，根据数据驱动的洞察来指导产品策略。科技公司依赖A/B测试和因果分析等方法来支持他们的产品决策，确保这些决策有坚实的证据基础。数据科学家和工程师等角色在这些部门中至关重要，尤其是在广告、增长和产品团队中。",
+      "highlight_plan": [
+        {
+          "bullet_index": 0,
+          "narration_segment_index": 1,
+          "text": "Data departments guide product decisions"
+        },
+        {
+          "bullet_index": 1,
+          "narration_segment_index": 2,
+          "text": "Utilize A/B testing and causal analysis"
+        },
+        {
+          "bullet_index": 2,
+          "narration_segment_index": 3,
+          "text": "Roles include Data Scientists and Engineers"
+        }
+      ]
+    },
+    {
+      "slide_index": 9,
+      "title": "Trust, Safety, and Privacy as Core Functions",
+      "bullets": [
+        "Trust and safety departments are now essential",
+        "Focus on compliance, content safety, and security",
+        "Major companies prioritize these areas"
+      ],
+      "narration_segments": [
+        "现在，让我们来讨论信任、安全和隐私部门日益重要的角色。",
+        "这些职能已经从支持角色演变为确保合规性和用户安全的核心部门。",
+        "它们关注广告隐私、内容审核和账户安全等领域，这些对维持运营至关重要。",
+        "像Meta、Google和Apple这样的公司正在大力投资这些领域，以减轻监管压力。"
+      ],
+      "speaker_script": "现在，让我们来讨论信任、安全和隐私部门日益重要的角色。这些职能已经从支持角色演变为确保合规性和用户安全的核心部门。它们关注广告隐私、内容审核和账户安全等领域，这些对维持运营至关重要。像Meta、Google和Apple这样的公司正在大力投资这些领域，以减轻监管压力。",
+      "highlight_plan": [
+        {
+          "bullet_index": 0,
+          "narration_segment_index": 1,
+          "text": "Trust and safety departments are now essential"
+        },
+        {
+          "bullet_index": 1,
+          "narration_segment_index": 2,
+          "text": "Focus on compliance, content safety, and security"
+        },
+        {
+          "bullet_index": 2,
+          "narration_segment_index": 3,
+          "text": "Major companies prioritize these areas"
+        }
+      ]
+    },
+    {
+      "slide_index": 10,
+      "title": "Marketplace and Commerce in Tech",
+      "bullets": [
+        "Marketplace departments are vital for Amazon and Apple",
+        "Include logistics, payments, and fulfillment",
+        "Services revenue is crucial for Apple"
+      ],
+      "narration_segments": [
+        "接下来，我们来探讨一下科技公司中市场和商业部门的角色。",
+        "这些部门对于像亚马逊和苹果这样的公司尤为重要，因为它们涵盖了物流、支付和履约等多个方面。",
+        "对于亚马逊来说，市场不仅仅是一个电子商务平台，而是一个整合了多种服务的综合系统。",
+        "苹果的服务收入也达到了创纪录的高点，显示了这一领域在硬件销售之外的重要性。"
+      ],
+      "speaker_script": "接下来，我们来探讨一下科技公司中市场和商业部门的角色。这些部门对于像亚马逊和苹果这样的公司尤为重要，因为它们涵盖了物流、支付和履约等多个方面。对于亚马逊来说，市场不仅仅是一个电子商务平台，而是一个整合了多种服务的综合系统。苹果的服务收入也达到了创纪录的高点，显示了这一领域在硬件销售之外的重要性。",
+      "highlight_plan": [
+        {
+          "bullet_index": 0,
+          "narration_segment_index": 1,
+          "text": "Marketplace departments are vital for Amazon and Apple"
+        },
+        {
+          "bullet_index": 1,
+          "narration_segment_index": 2,
+          "text": "Include logistics, payments, and fulfillment"
+        },
+        {
+          "bullet_index": 2,
+          "narration_segment_index": 3,
+          "text": "Services revenue is crucial for Apple"
+        }
+      ]
+    },
+    {
+      "slide_index": 11,
+      "title": "Developer Ecosystem as a Competitive Advantage",
+      "bullets": [
+        "Developer platforms lock in ecosystems for companies",
+        "Examples include Microsoft Azure and Google Cloud",
+        "Nvidia builds a moat with its developer tools"
+      ],
+      "narration_segments": [
+        "现在，让我们来讨论开发者生态系统在主要科技公司中的重要性。",
+        "这些平台不仅仅是为了短期收入；它们通过锁定开发者来创造长期的竞争优势。",
+        "例如，微软的Azure和谷歌云提供了丰富的工具和资源，以促进开发者的参与。",
+        "Nvidia通过其CUDA平台和人工智能库构建了强大的护城河，从而增强了其市场地位。"
+      ],
+      "speaker_script": "现在，让我们来讨论开发者生态系统在主要科技公司中的重要性。这些平台不仅仅是为了短期收入；它们通过锁定开发者来创造长期的竞争优势。例如，微软的Azure和谷歌云提供了丰富的工具和资源，以促进开发者的参与。Nvidia通过其CUDA平台和人工智能库构建了强大的护城河，从而增强了其市场地位。",
+      "highlight_plan": [
+        {
+          "bullet_index": 0,
+          "narration_segment_index": 1,
+          "text": "Developer platforms lock in ecosystems for companies"
+        },
+        {
+          "bullet_index": 1,
+          "narration_segment_index": 2,
+          "text": "Examples include Microsoft Azure and Google Cloud"
+        },
+        {
+          "bullet_index": 2,
+          "narration_segment_index": 3,
+          "text": "Nvidia builds a moat with its developer tools"
+        }
+      ]
+    },
+    {
+      "slide_index": 12,
+      "title": "Ranking of Core Departments",
+      "bullets": [
+        "Tier 1: Ads, Recommendation, Core Product, Cloud",
+        "Tier 2: Growth, Data Science, Marketplace, Trust",
+        "Tier 3: Enterprise Sales, HR, Operations, Legal"
+      ],
+      "narration_segments": [
+        "最后，我们来看看主要科技公司的核心部门排名。",
+        "最关键的部门，也就是第一层级，包括广告变现、推荐系统、核心产品和云基础设施。",
+        "第二层级的部门虽然重要，但并不是每家公司都将其作为首要任务，包括增长和数据科学。",
+        "最后，第三层级的部门，如企业销售和人力资源，虽然不可或缺，但通常不属于技术核心。"
+      ],
+      "speaker_script": "最后，我们来看看主要科技公司的核心部门排名。最关键的部门，也就是第一层级，包括广告变现、推荐系统、核心产品和云基础设施。第二层级的部门虽然重要，但并不是每家公司都将其作为首要任务，包括增长和数据科学。最后，第三层级的部门，如企业销售和人力资源，虽然不可或缺，但通常不属于技术核心。",
+      "highlight_plan": [
+        {
+          "bullet_index": 0,
+          "narration_segment_index": 1,
+          "text": "Tier 1: Ads, Recommendation, Core Product, Cloud"
+        },
+        {
+          "bullet_index": 1,
+          "narration_segment_index": 2,
+          "text": "Tier 2: Growth, Data Science, Marketplace, Trust"
+        },
+        {
+          "bullet_index": 2,
+          "narration_segment_index": 3,
+          "text": "Tier 3: Enterprise Sales, HR, Operations, Legal"
+        }
+      ]
+    },
+    {
+      "slide_index": 13,
+      "title": "Company-Specific Core Departments",
+      "bullets": [
+        "Google: Search, Ads, YouTube, Cloud",
+        "Amazon: AWS, Marketplace, Logistics, Ads",
+        "Apple: iPhone, Services, Ecosystem, Privacy"
+      ],
+      "narration_segments": [
+        "我们来深入了解一下主要科技公司的核心部门。",
+        "对于Google来说，最核心的部门包括搜索、广告、YouTube和云计算，这些部门推动了收入和用户参与度。",
+        "亚马逊的核心部门包括AWS、市场、物流和广告，体现了其多元化的商业模式。",
+        "苹果的核心包括iPhone、服务、生态系统和隐私，展示了其硬件和软件的整合方式。"
+      ],
+      "speaker_script": "我们来深入了解一下主要科技公司的核心部门。对于Google来说，最核心的部门包括搜索、广告、YouTube和云计算，这些部门推动了收入和用户参与度。亚马逊的核心部门包括AWS、市场、物流和广告，体现了其多元化的商业模式。苹果的核心包括iPhone、服务、生态系统和隐私，展示了其硬件和软件的整合方式。",
+      "highlight_plan": [
+        {
+          "bullet_index": 0,
+          "narration_segment_index": 1,
+          "text": "Google: Search, Ads, YouTube, Cloud"
+        },
+        {
+          "bullet_index": 1,
+          "narration_segment_index": 2,
+          "text": "Amazon: AWS, Marketplace, Logistics, Ads"
+        },
+        {
+          "bullet_index": 2,
+          "narration_segment_index": 3,
+          "text": "Apple: iPhone, Services, Ecosystem, Privacy"
+        }
+      ]
+    }
+  ]
+}

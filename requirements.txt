@@ -4,7 +4,9 @@ pydantic
 pypdf
 python-pptx
 pillow
+numpy
 moviepy
 edge-tts
 streamlit
 mutagen
+pytest

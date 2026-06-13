@@ -1,0 +1,434 @@
+{
+  "course_title": "主要科技公司的核心部门",
+  "slides": [
+    {
+      "slide_index": 1,
+      "title": "核心部门概览",
+      "bullets": [
+        "主要部门包括广告、AI、云和增长",
+        "不同公司重视部门不同",
+        "例如：谷歌、亚马逊、微软、苹果"
+      ],
+      "narration_segments": [
+        "在这一页中，我们将探讨定义主要科技公司的核心部门。",
+        "这些部门包括广告变现、人工智能/机器学习平台、云基础设施和增长，这些都是推动收入和创新的重要因素。",
+        "每个公司，比如谷歌、亚马逊、微软和苹果，都会根据其商业模式对这些部门给予不同的重视。",
+        "例如，谷歌非常重视广告和人工智能，而亚马逊则将重心放在其AWS和市场上。"
+      ],
+      "speaker_script": "在这一页中，我们将探讨定义主要科技公司的核心部门。这些部门包括广告变现、人工智能/机器学习平台、云基础设施和增长，这些都是推动收入和创新的重要因素。每个公司，比如谷歌、亚马逊、微软和苹果，都会根据其商业模式对这些部门给予不同的重视。例如，谷歌非常重视广告和人工智能，而亚马逊则将重心放在其AWS和市场上。",
+      "highlight_plan": [
+        {
+          "bullet_index": 0,
+          "narration_segment_index": 1,
+          "text": "主要部门包括广告、AI、云和增长"
+        },
+        {
+          "bullet_index": 1,
+          "narration_segment_index": 2,
+          "text": "不同公司重视部门不同"
+        },
+        {
+          "bullet_index": 2,
+          "narration_segment_index": 3,
+          "text": "例如：谷歌、亚马逊、微软、苹果"
+        }
+      ]
+    },
+    {
+      "slide_index": 2,
+      "title": "广告变现驱动收入",
+      "bullets": [
+        "广告部门最接近收入",
+        "Google和Meta依赖广告收入",
+        "AWS与广告贡献显著"
+      ],
+      "narration_segments": [
+        "让我们深入探讨广告变现如何成为科技公司重要的收入驱动力。",
+        "专注于广告的部门至关重要，因为它们直接产生收入，尤其是对于像Google和Meta这样的公司。",
+        "例如，Google Services的收入增长主要得益于搜索和YouTube广告，这两者每年就创造了超过600亿美元的收入。",
+        "同样，亚马逊的广告业务也成为了与AWS并肩的重要利润来源，AWS在2026年第一季度报告的营业收入达到了142亿美元。"
+      ],
+      "speaker_script": "让我们深入探讨广告变现如何成为科技公司重要的收入驱动力。专注于广告的部门至关重要，因为它们直接产生收入，尤其是对于像Google和Meta这样的公司。例如，Google Services的收入增长主要得益于搜索和YouTube广告，这两者每年就创造了超过600亿美元的收入。同样，亚马逊的广告业务也成为了与AWS并肩的重要利润来源，AWS在2026年第一季度报告的营业收入达到了142亿美元。",
+      "highlight_plan": [
+        {
+          "bullet_index": 0,
+          "narration_segment_index": 1,
+          "text": "广告部门最接近收入"
+        },
+        {
+          "bullet_index": 1,
+          "narration_segment_index": 2,
+          "text": "Google和Meta依赖广告收入"
+        },
+        {
+          "bullet_index": 2,
+          "narration_segment_index": 3,
+          "text": "AWS与广告贡献显著"
+        }
+      ]
+    },
+    {
+      "slide_index": 3,
+      "title": "推荐算法的重要性",
+      "bullets": [
+        "推荐系统提升参与和收入",
+        "核心部门：搜索与排序",
+        "例子：TikTok、Netflix、Amazon"
+      ],
+      "narration_segments": [
+        "现在，让我们来探讨推荐算法在科技公司中的作用。",
+        "这些系统至关重要，因为它们决定了用户看到和互动的内容，直接影响用户参与度和收入。",
+        "例如，TikTok的推荐系统是其用户体验的核心，而Netflix和Amazon也非常依赖个性化推荐来推动订阅和销售。",
+        "这些算法的技术复杂性使它们成为这些公司中最具战略重要性的领域之一。"
+      ],
+      "speaker_script": "现在，让我们来探讨推荐算法在科技公司中的作用。这些系统至关重要，因为它们决定了用户看到和互动的内容，直接影响用户参与度和收入。例如，TikTok的推荐系统是其用户体验的核心，而Netflix和Amazon也非常依赖个性化推荐来推动订阅和销售。这些算法的技术复杂性使它们成为这些公司中最具战略重要性的领域之一。",
+      "highlight_plan": [
+        {
+          "bullet_index": 0,
+          "narration_segment_index": 1,
+          "text": "推荐系统提升参与和收入"
+        },
+        {
+          "bullet_index": 1,
+          "narration_segment_index": 2,
+          "text": "核心部门：搜索与排序"
+        },
+        {
+          "bullet_index": 2,
+          "narration_segment_index": 3,
+          "text": "例子：TikTok、Netflix、Amazon"
+        }
+      ]
+    },
+    {
+      "slide_index": 4,
+      "title": "超越传统营销的增长",
+      "bullets": [
+        "增长关注数据与实验",
+        "涵盖用户获取与留存",
+        "大公司设有增长团队"
+      ],
+      "narration_segments": [
+        "接下来，我们来讨论一下大型科技公司中的增长概念。",
+        "与传统营销不同，增长侧重于数据分析、实验和用户生命周期管理，以优化用户参与度。",
+        "这包括用户获取、留存和转化的策略，这些对于长期成功至关重要。",
+        "像Meta、TikTok和Amazon这样的公司都设立了专门的增长团队，专注于这些关键领域。"
+      ],
+      "speaker_script": "接下来，我们来讨论一下大型科技公司中的增长概念。与传统营销不同，增长侧重于数据分析、实验和用户生命周期管理，以优化用户参与度。这包括用户获取、留存和转化的策略，这些对于长期成功至关重要。像Meta、TikTok和Amazon这样的公司都设立了专门的增长团队，专注于这些关键领域。",
+      "highlight_plan": [
+        {
+          "bullet_index": 0,
+          "narration_segment_index": 1,
+          "text": "增长关注数据与实验"
+        },
+        {
+          "bullet_index": 1,
+          "narration_segment_index": 2,
+          "text": "涵盖用户获取与留存"
+        },
+        {
+          "bullet_index": 2,
+          "narration_segment_index": 3,
+          "text": "大公司设有增长团队"
+        }
+      ]
+    },
+    {
+      "slide_index": 5,
+      "title": "核心产品团队及影响",
+      "bullets": [
+        "并非所有团队重要",
+        "核心团队控制入口与收入",
+        "例子：Google、Amazon、Apple"
+      ],
+      "narration_segments": [
+        "让我们来探讨一下核心产品团队在科技公司中的重要性。",
+        "虽然所有产品团队都有贡献，但只有少数被视为核心团队，因为它们控制着关键的用户入口和收入来源。",
+        "例如，Google 的搜索和 YouTube、Amazon 的市场以及 Apple 的 iOS 对各自公司的成功至关重要。",
+        "这些核心产品线通常会受到高层管理者的高度关注，因为它们直接影响公司的估值。"
+      ],
+      "speaker_script": "让我们来探讨一下核心产品团队在科技公司中的重要性。虽然所有产品团队都有贡献，但只有少数被视为核心团队，因为它们控制着关键的用户入口和收入来源。例如，Google 的搜索和 YouTube、Amazon 的市场以及 Apple 的 iOS 对各自公司的成功至关重要。这些核心产品线通常会受到高层管理者的高度关注，因为它们直接影响公司的估值。",
+      "highlight_plan": [
+        {
+          "bullet_index": 0,
+          "narration_segment_index": 1,
+          "text": "并非所有团队重要"
+        },
+        {
+          "bullet_index": 1,
+          "narration_segment_index": 2,
+          "text": "核心团队控制入口与收入"
+        },
+        {
+          "bullet_index": 2,
+          "narration_segment_index": 3,
+          "text": "例子：Google、Amazon、Apple"
+        }
+      ]
+    },
+    {
+      "slide_index": 6,
+      "title": "云与基础设施的重要性",
+      "bullets": [
+        "云部门是AI时代基础",
+        "微软Azure与AWS是盈利引擎",
+        "Nvidia数据中心收入增长"
+      ],
+      "narration_segments": [
+        "现在，让我们来看看云和基础设施部门的基础性作用。",
+        "在当今以人工智能为驱动的环境中，这些部门已成为可扩展性和性能的关键，微软Azure和AWS正引领这一潮流。",
+        "例如，微软报告称，2025年Azure的收入超过750亿美元，突显了它作为增长引擎的重要性。",
+        "同样，Nvidia的数据中心收入达到了752亿美元，展示了对人工智能基础设施日益增长的需求。"
+      ],
+      "speaker_script": "现在，让我们来看看云和基础设施部门的基础性作用。在当今以人工智能为驱动的环境中，这些部门已成为可扩展性和性能的关键，微软Azure和AWS正引领这一潮流。例如，微软报告称，2025年Azure的收入超过750亿美元，突显了它作为增长引擎的重要性。同样，Nvidia的数据中心收入达到了752亿美元，展示了对人工智能基础设施日益增长的需求。",
+      "highlight_plan": [
+        {
+          "bullet_index": 0,
+          "narration_segment_index": 1,
+          "text": "云部门是AI时代基础"
+        },
+        {
+          "bullet_index": 1,
+          "narration_segment_index": 2,
+          "text": "微软Azure与AWS是盈利引擎"
+        },
+        {
+          "bullet_index": 2,
+          "narration_segment_index": 3,
+          "text": "Nvidia数据中心收入增长"
+        }
+      ]
+    },
+    {
+      "slide_index": 7,
+      "title": "AI/ML平台的核心地位",
+      "bullets": [
+        "AI/ML从研究转向生产",
+        "核心领域包括LLMs、广告模型和AI安全",
+        "Google、Microsoft等大举投资"
+      ],
+      "narration_segments": [
+        "接下来，我们将讨论科技公司中AI/ML平台的发展演变。",
+        "AI/ML部门已经从单纯的研究转变为满足业务需求的核心生产单位。",
+        "关键领域包括大型语言模型、广告模型和AI安全协议，这些对运营成功至关重要。",
+        "像Google和Microsoft这样的公司正在这些领域进行大量投资，反映了它们在科技领域日益增长的重要性。"
+      ],
+      "speaker_script": "接下来，我们将讨论科技公司中AI/ML平台的发展演变。AI/ML部门已经从单纯的研究转变为满足业务需求的核心生产单位。关键领域包括大型语言模型、广告模型和AI安全协议，这些对运营成功至关重要。像Google和Microsoft这样的公司正在这些领域进行大量投资，反映了它们在科技领域日益增长的重要性。",
+      "highlight_plan": [
+        {
+          "bullet_index": 0,
+          "narration_segment_index": 1,
+          "text": "AI/ML从研究转向生产"
+        },
+        {
+          "bullet_index": 1,
+          "narration_segment_index": 2,
+          "text": "核心领域包括LLMs、广告模型和AI安全"
+        },
+        {
+          "bullet_index": 2,
+          "narration_segment_index": 3,
+          "text": "Google、Microsoft等大举投资"
+        }
+      ]
+    },
+    {
+      "slide_index": 8,
+      "title": "数据与实验决策中心",
+      "bullets": [
+        "数据部门指导产品决策",
+        "使用A/B测试和因果分析",
+        "角色包括数据科学家和工程师"
+      ],
+      "narration_segments": [
+        "让我们来探讨数据和实验在科技公司中扮演的重要角色。",
+        "这些部门作为决策中心，根据数据驱动的洞察来指导产品策略。",
+        "科技公司依赖A/B测试和因果分析等方法来支持他们的产品决策，确保这些决策有坚实的证据基础。",
+        "数据科学家和工程师等角色在这些部门中至关重要，尤其是在广告、增长和产品团队中。"
+      ],
+      "speaker_script": "让我们来探讨数据和实验在科技公司中扮演的重要角色。这些部门作为决策中心，根据数据驱动的洞察来指导产品策略。科技公司依赖A/B测试和因果分析等方法来支持他们的产品决策，确保这些决策有坚实的证据基础。数据科学家和工程师等角色在这些部门中至关重要，尤其是在广告、增长和产品团队中。",
+      "highlight_plan": [
+        {
+          "bullet_index": 0,
+          "narration_segment_index": 1,
+          "text": "数据部门指导产品决策"
+        },
+        {
+          "bullet_index": 1,
+          "narration_segment_index": 2,
+          "text": "使用A/B测试和因果分析"
+        },
+        {
+          "bullet_index": 2,
+          "narration_segment_index": 3,
+          "text": "角色包括数据科学家和工程师"
+        }
+      ]
+    },
+    {
+      "slide_index": 9,
+      "title": "信任、安全与隐私",
+      "bullets": [
+        "信任与安全部门必不可少",
+        "关注合规、内容安全与安全",
+        "大公司优先投资这些领域"
+      ],
+      "narration_segments": [
+        "现在，让我们来讨论信任、安全和隐私部门日益重要的角色。",
+        "这些职能已经从支持角色演变为确保合规性和用户安全的核心部门。",
+        "它们关注广告隐私、内容审核和账户安全等领域，这些对维持运营至关重要。",
+        "像Meta、Google和Apple这样的公司正在大力投资这些领域，以减轻监管压力。"
+      ],
+      "speaker_script": "现在，让我们来讨论信任、安全和隐私部门日益重要的角色。这些职能已经从支持角色演变为确保合规性和用户安全的核心部门。它们关注广告隐私、内容审核和账户安全等领域，这些对维持运营至关重要。像Meta、Google和Apple这样的公司正在大力投资这些领域，以减轻监管压力。",
+      "highlight_plan": [
+        {
+          "bullet_index": 0,
+          "narration_segment_index": 1,
+          "text": "信任与安全部门必不可少"
+        },
+        {
+          "bullet_index": 1,
+          "narration_segment_index": 2,
+          "text": "关注合规、内容安全与安全"
+        },
+        {
+          "bullet_index": 2,
+          "narration_segment_index": 3,
+          "text": "大公司优先投资这些领域"
+        }
+      ]
+    },
+    {
+      "slide_index": 10,
+      "title": "科技市场与商业",
+      "bullets": [
+        "市场部门对亚马逊和苹果至关重要",
+        "涵盖物流、支付和履约",
+        "服务收入对苹果至关重要"
+      ],
+      "narration_segments": [
+        "接下来，我们来探讨一下科技公司中市场和商业部门的角色。",
+        "这些部门对于像亚马逊和苹果这样的公司尤为重要，因为它们涵盖了物流、支付和履约等多个方面。",
+        "对于亚马逊来说，市场不仅仅是一个电子商务平台，而是一个整合了多种服务的综合系统。",
+        "苹果的服务收入也达到了创纪录的高点，显示了这一领域在硬件销售之外的重要性。"
+      ],
+      "speaker_script": "接下来，我们来探讨一下科技公司中市场和商业部门的角色。这些部门对于像亚马逊和苹果这样的公司尤为重要，因为它们涵盖了物流、支付和履约等多个方面。对于亚马逊来说，市场不仅仅是一个电子商务平台，而是一个整合了多种服务的综合系统。苹果的服务收入也达到了创纪录的高点，显示了这一领域在硬件销售之外的重要性。",
+      "highlight_plan": [
+        {
+          "bullet_index": 0,
+          "narration_segment_index": 1,
+          "text": "市场部门对亚马逊和苹果至关重要"
+        },
+        {
+          "bullet_index": 1,
+          "narration_segment_index": 2,
+          "text": "涵盖物流、支付和履约"
+        },
+        {
+          "bullet_index": 2,
+          "narration_segment_index": 3,
+          "text": "服务收入对苹果至关重要"
+        }
+      ]
+    },
+    {
+      "slide_index": 11,
+      "title": "开发者生态系统优势",
+      "bullets": [
+        "开发平台锁定生态系统",
+        "如微软Azure和谷歌云",
+        "Nvidia用开发工具构建护城河"
+      ],
+      "narration_segments": [
+        "现在，让我们来讨论开发者生态系统在主要科技公司中的重要性。",
+        "这些平台不仅仅是为了短期收入；它们通过锁定开发者来创造长期的竞争优势。",
+        "例如，微软的Azure和谷歌云提供了丰富的工具和资源，以促进开发者的参与。",
+        "Nvidia通过其CUDA平台和人工智能库构建了强大的护城河，从而增强了其市场地位。"
+      ],
+      "speaker_script": "现在，让我们来讨论开发者生态系统在主要科技公司中的重要性。这些平台不仅仅是为了短期收入；它们通过锁定开发者来创造长期的竞争优势。例如，微软的Azure和谷歌云提供了丰富的工具和资源，以促进开发者的参与。Nvidia通过其CUDA平台和人工智能库构建了强大的护城河，从而增强了其市场地位。",
+      "highlight_plan": [
+        {
+          "bullet_index": 0,
+          "narration_segment_index": 1,
+          "text": "开发平台锁定生态系统"
+        },
+        {
+          "bullet_index": 1,
+          "narration_segment_index": 2,
+          "text": "如微软Azure和谷歌云"
+        },
+        {
+          "bullet_index": 2,
+          "narration_segment_index": 3,
+          "text": "Nvidia用开发工具构建护城河"
+        }
+      ]
+    },
+    {
+      "slide_index": 12,
+      "title": "核心部门排名",
+      "bullets": [
+        "第一层级：广告、推荐、核心产品、云",
+        "第二层级：增长、数据科学、市场、信任",
+        "第三层级：企业销售、人力资源、运营、法律"
+      ],
+      "narration_segments": [
+        "最后，我们来看看主要科技公司的核心部门排名。",
+        "最关键的部门，也就是第一层级，包括广告变现、推荐系统、核心产品和云基础设施。",
+        "第二层级的部门虽然重要，但并不是每家公司都将其作为首要任务，包括增长和数据科学。",
+        "最后，第三层级的部门，如企业销售和人力资源，虽然不可或缺，但通常不属于技术核心。"
+      ],
+      "speaker_script": "最后，我们来看看主要科技公司的核心部门排名。最关键的部门，也就是第一层级，包括广告变现、推荐系统、核心产品和云基础设施。第二层级的部门虽然重要，但并不是每家公司都将其作为首要任务，包括增长和数据科学。最后，第三层级的部门，如企业销售和人力资源，虽然不可或缺，但通常不属于技术核心。",
+      "highlight_plan": [
+        {
+          "bullet_index": 0,
+          "narration_segment_index": 1,
+          "text": "第一层级：广告、推荐、核心产品、云"
+        },
+        {
+          "bullet_index": 1,
+          "narration_segment_index": 2,
+          "text": "第二层级：增长、数据科学、市场、信任"
+        },
+        {
+          "bullet_index": 2,
+          "narration_segment_index": 3,
+          "text": "第三层级：企业销售、人力资源、运营、法律"
+        }
+      ]
+    },
+    {
+      "slide_index": 13,
+      "title": "公司核心部门",
+      "bullets": [
+        "Google: 搜索、广告、YouTube、云",
+        "Amazon: AWS、市场、物流、广告",
+        "Apple: iPhone、服务、生态、隐私"
+      ],
+      "narration_segments": [
+        "我们来深入了解一下主要科技公司的核心部门。",
+        "对于Google来说，最核心的部门包括搜索、广告、YouTube和云计算，这些部门推动了收入和用户参与度。",
+        "亚马逊的核心部门包括AWS、市场、物流和广告，体现了其多元化的商业模式。",
+        "苹果的核心包括iPhone、服务、生态系统和隐私，展示了其硬件和软件的整合方式。"
+      ],
+      "speaker_script": "我们来深入了解一下主要科技公司的核心部门。对于Google来说，最核心的部门包括搜索、广告、YouTube和云计算，这些部门推动了收入和用户参与度。亚马逊的核心部门包括AWS、市场、物流和广告，体现了其多元化的商业模式。苹果的核心包括iPhone、服务、生态系统和隐私，展示了其硬件和软件的整合方式。",
+      "highlight_plan": [
+        {
+          "bullet_index": 0,
+          "narration_segment_index": 1,
+          "text": "Google: 搜索、广告、YouTube、云"
+        },
+        {
+          "bullet_index": 1,
+          "narration_segment_index": 2,
+          "text": "Amazon: AWS、市场、物流、广告"
+        },
+        {
+          "bullet_index": 2,
+          "narration_segment_index": 3,
+          "text": "Apple: iPhone、服务、生态、隐私"
+        }
+      ]
+    }
+  ]
+}

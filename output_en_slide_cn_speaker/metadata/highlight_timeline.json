@@ -1,0 +1,639 @@
+[
+  {
+    "slide_index": 1,
+    "image_path": "output_en_slide_en_speaker/slide_images/slide_01.png",
+    "audio_duration": 33.888,
+    "highlights": [
+      {
+        "bullet_index": 0,
+        "narration_segment_index": 1,
+        "start": 5.16,
+        "end": 15.864,
+        "duration": 10.704,
+        "box": {
+          "x": 90,
+          "y": 244,
+          "w": 630,
+          "h": 50
+        },
+        "text": "Major departments include Ads, AI, Cloud, and Growth"
+      },
+      {
+        "bullet_index": 1,
+        "narration_segment_index": 2,
+        "start": 15.864,
+        "end": 25.056,
+        "duration": 9.192,
+        "box": {
+          "x": 90,
+          "y": 310,
+          "w": 623,
+          "h": 50
+        },
+        "text": "Different companies prioritize departments differently"
+      },
+      {
+        "bullet_index": 2,
+        "narration_segment_index": 3,
+        "start": 25.056,
+        "end": 33.84,
+        "duration": 8.784,
+        "box": {
+          "x": 90,
+          "y": 376,
+          "w": 572,
+          "h": 50
+        },
+        "text": "Examples: Google, Amazon, Microsoft, and Apple"
+      }
+    ]
+  },
+  {
+    "slide_index": 2,
+    "image_path": "output_en_slide_en_speaker/slide_images/slide_02.png",
+    "audio_duration": 37.584,
+    "highlights": [
+      {
+        "bullet_index": 0,
+        "narration_segment_index": 1,
+        "start": 6.144,
+        "end": 14.688,
+        "duration": 8.544,
+        "box": {
+          "x": 90,
+          "y": 244,
+          "w": 591,
+          "h": 50
+        },
+        "text": "Ads departments are closest to revenue generation"
+      },
+      {
+        "bullet_index": 1,
+        "narration_segment_index": 2,
+        "start": 14.688,
+        "end": 24.24,
+        "duration": 9.552,
+        "box": {
+          "x": 90,
+          "y": 310,
+          "w": 604,
+          "h": 50
+        },
+        "text": "Google and Meta rely heavily on advertising revenue"
+      },
+      {
+        "bullet_index": 2,
+        "narration_segment_index": 3,
+        "start": 24.24,
+        "end": 37.536,
+        "duration": 13.296,
+        "box": {
+          "x": 90,
+          "y": 376,
+          "w": 675,
+          "h": 50
+        },
+        "text": "Amazon's AWS and advertising also contribute significantly"
+      }
+    ]
+  },
+  {
+    "slide_index": 3,
+    "image_path": "output_en_slide_en_speaker/slide_images/slide_03.png",
+    "audio_duration": 31.176,
+    "highlights": [
+      {
+        "bullet_index": 0,
+        "narration_segment_index": 1,
+        "start": 5.4,
+        "end": 13.584,
+        "duration": 8.184,
+        "box": {
+          "x": 90,
+          "y": 244,
+          "w": 720,
+          "h": 50
+        },
+        "text": "Recommendation systems drive user engagement and revenue"
+      },
+      {
+        "bullet_index": 1,
+        "narration_segment_index": 2,
+        "start": 13.584,
+        "end": 24.24,
+        "duration": 10.656,
+        "box": {
+          "x": 90,
+          "y": 310,
+          "w": 591,
+          "h": 50
+        },
+        "text": "Core departments include Search and Feed Ranking"
+      },
+      {
+        "bullet_index": 2,
+        "narration_segment_index": 3,
+        "start": 24.24,
+        "end": 31.128,
+        "duration": 6.888,
+        "box": {
+          "x": 90,
+          "y": 376,
+          "w": 660,
+          "h": 50
+        },
+        "text": "Examples: TikTok, Netflix, and Amazon recommendations"
+      }
+    ]
+  },
+  {
+    "slide_index": 4,
+    "image_path": "output_en_slide_en_speaker/slide_images/slide_04.png",
+    "audio_duration": 29.064,
+    "highlights": [
+      {
+        "bullet_index": 0,
+        "narration_segment_index": 1,
+        "start": 5.304,
+        "end": 14.088,
+        "duration": 8.784,
+        "box": {
+          "x": 90,
+          "y": 244,
+          "w": 686,
+          "h": 50
+        },
+        "text": "Growth focuses on data, experimentation, and user lifecycle"
+      },
+      {
+        "bullet_index": 1,
+        "narration_segment_index": 2,
+        "start": 14.088,
+        "end": 20.808,
+        "duration": 6.72,
+        "box": {
+          "x": 90,
+          "y": 310,
+          "w": 706,
+          "h": 50
+        },
+        "text": "Includes user acquisition, retention, and conversion strategies"
+      },
+      {
+        "bullet_index": 2,
+        "narration_segment_index": 3,
+        "start": 20.808,
+        "end": 29.016,
+        "duration": 8.208,
+        "box": {
+          "x": 90,
+          "y": 376,
+          "w": 556,
+          "h": 50
+        },
+        "text": "Major companies have dedicated Growth teams"
+      }
+    ]
+  },
+  {
+    "slide_index": 5,
+    "image_path": "output_en_slide_en_speaker/slide_images/slide_05.png",
+    "audio_duration": 31.704,
+    "highlights": [
+      {
+        "bullet_index": 0,
+        "narration_segment_index": 1,
+        "start": 5.496,
+        "end": 15.12,
+        "duration": 9.624,
+        "box": {
+          "x": 90,
+          "y": 244,
+          "w": 511,
+          "h": 50
+        },
+        "text": "Not all product teams are equally important"
+      },
+      {
+        "bullet_index": 1,
+        "narration_segment_index": 2,
+        "start": 15.12,
+        "end": 23.712,
+        "duration": 8.592,
+        "box": {
+          "x": 90,
+          "y": 310,
+          "w": 661,
+          "h": 50
+        },
+        "text": "Core teams control user entry points and revenue sources"
+      },
+      {
+        "bullet_index": 2,
+        "narration_segment_index": 3,
+        "start": 23.712,
+        "end": 31.656,
+        "duration": 7.944,
+        "box": {
+          "x": 90,
+          "y": 376,
+          "w": 669,
+          "h": 50
+        },
+        "text": "Examples: Google Search, Amazon Marketplace, Apple iOS"
+      }
+    ]
+  },
+  {
+    "slide_index": 6,
+    "image_path": "output_en_slide_en_speaker/slide_images/slide_06.png",
+    "audio_duration": 35.64,
+    "highlights": [
+      {
+        "bullet_index": 0,
+        "narration_segment_index": 1,
+        "start": 5.328,
+        "end": 16.44,
+        "duration": 11.112,
+        "box": {
+          "x": 90,
+          "y": 244,
+          "w": 567,
+          "h": 50
+        },
+        "text": "Cloud departments are foundational in the AI era"
+      },
+      {
+        "bullet_index": 1,
+        "narration_segment_index": 2,
+        "start": 16.44,
+        "end": 26.016,
+        "duration": 9.576,
+        "box": {
+          "x": 90,
+          "y": 310,
+          "w": 579,
+          "h": 50
+        },
+        "text": "Microsoft Azure and AWS are major profit engines"
+      },
+      {
+        "bullet_index": 2,
+        "narration_segment_index": 3,
+        "start": 26.016,
+        "end": 35.592,
+        "duration": 9.576,
+        "box": {
+          "x": 90,
+          "y": 376,
+          "w": 603,
+          "h": 50
+        },
+        "text": "Nvidia's Data Center revenue shows industry growth"
+      }
+    ]
+  },
+  {
+    "slide_index": 7,
+    "image_path": "output_en_slide_en_speaker/slide_images/slide_07.png",
+    "audio_duration": 30.768,
+    "highlights": [
+      {
+        "bullet_index": 0,
+        "narration_segment_index": 1,
+        "start": 5.808,
+        "end": 12.6,
+        "duration": 6.792,
+        "box": {
+          "x": 90,
+          "y": 244,
+          "w": 538,
+          "h": 50
+        },
+        "text": "AI/ML has shifted from research to production"
+      },
+      {
+        "bullet_index": 1,
+        "narration_segment_index": 2,
+        "start": 12.6,
+        "end": 21.144,
+        "duration": 8.544,
+        "box": {
+          "x": 90,
+          "y": 310,
+          "w": 592,
+          "h": 50
+        },
+        "text": "Core areas include LLMs, Ads Models, and AI Safety"
+      },
+      {
+        "bullet_index": 2,
+        "narration_segment_index": 3,
+        "start": 21.144,
+        "end": 30.72,
+        "duration": 9.576,
+        "box": {
+          "x": 90,
+          "y": 376,
+          "w": 602,
+          "h": 50
+        },
+        "text": "Major investments by Google, Microsoft, and others"
+      }
+    ]
+  },
+  {
+    "slide_index": 8,
+    "image_path": "output_en_slide_en_speaker/slide_images/slide_08.png",
+    "audio_duration": 30.576,
+    "highlights": [
+      {
+        "bullet_index": 0,
+        "narration_segment_index": 1,
+        "start": 5.544,
+        "end": 11.928,
+        "duration": 6.384,
+        "box": {
+          "x": 90,
+          "y": 244,
+          "w": 496,
+          "h": 50
+        },
+        "text": "Data departments guide product decisions"
+      },
+      {
+        "bullet_index": 1,
+        "narration_segment_index": 2,
+        "start": 11.928,
+        "end": 21.624,
+        "duration": 9.696,
+        "box": {
+          "x": 90,
+          "y": 310,
+          "w": 443,
+          "h": 50
+        },
+        "text": "Utilize A/B testing and causal analysis"
+      },
+      {
+        "bullet_index": 2,
+        "narration_segment_index": 3,
+        "start": 21.624,
+        "end": 30.528,
+        "duration": 8.904,
+        "box": {
+          "x": 90,
+          "y": 376,
+          "w": 502,
+          "h": 50
+        },
+        "text": "Roles include Data Scientists and Engineers"
+      }
+    ]
+  },
+  {
+    "slide_index": 9,
+    "image_path": "output_en_slide_en_speaker/slide_images/slide_09.png",
+    "audio_duration": 27.96,
+    "highlights": [
+      {
+        "bullet_index": 0,
+        "narration_segment_index": 1,
+        "start": 6.12,
+        "end": 12.912,
+        "duration": 6.792,
+        "box": {
+          "x": 90,
+          "y": 244,
+          "w": 552,
+          "h": 50
+        },
+        "text": "Trust and safety departments are now essential"
+      },
+      {
+        "bullet_index": 1,
+        "narration_segment_index": 2,
+        "start": 12.912,
+        "end": 20.544,
+        "duration": 7.632,
+        "box": {
+          "x": 90,
+          "y": 310,
+          "w": 574,
+          "h": 50
+        },
+        "text": "Focus on compliance, content safety, and security"
+      },
+      {
+        "bullet_index": 2,
+        "narration_segment_index": 3,
+        "start": 20.544,
+        "end": 27.912,
+        "duration": 7.368,
+        "box": {
+          "x": 90,
+          "y": 376,
+          "w": 457,
+          "h": 50
+        },
+        "text": "Major companies prioritize these areas"
+      }
+    ]
+  },
+  {
+    "slide_index": 10,
+    "image_path": "output_en_slide_en_speaker/slide_images/slide_10.png",
+    "audio_duration": 31.272,
+    "highlights": [
+      {
+        "bullet_index": 0,
+        "narration_segment_index": 1,
+        "start": 6.0,
+        "end": 15.552,
+        "duration": 9.552,
+        "box": {
+          "x": 90,
+          "y": 244,
+          "w": 659,
+          "h": 50
+        },
+        "text": "Marketplace departments are vital for Amazon and Apple"
+      },
+      {
+        "bullet_index": 1,
+        "narration_segment_index": 2,
+        "start": 15.552,
+        "end": 23.592,
+        "duration": 8.04,
+        "box": {
+          "x": 90,
+          "y": 310,
+          "w": 499,
+          "h": 50
+        },
+        "text": "Include logistics, payments, and fulfillment"
+      },
+      {
+        "bullet_index": 2,
+        "narration_segment_index": 3,
+        "start": 23.592,
+        "end": 31.224,
+        "duration": 7.632,
+        "box": {
+          "x": 90,
+          "y": 376,
+          "w": 420,
+          "h": 50
+        },
+        "text": "Services revenue is crucial for Apple"
+      }
+    ]
+  },
+  {
+    "slide_index": 11,
+    "image_path": "output_en_slide_en_speaker/slide_images/slide_11.png",
+    "audio_duration": 30.24,
+    "highlights": [
+      {
+        "bullet_index": 0,
+        "narration_segment_index": 1,
+        "start": 6.432,
+        "end": 14.352,
+        "duration": 7.92,
+        "box": {
+          "x": 90,
+          "y": 244,
+          "w": 626,
+          "h": 50
+        },
+        "text": "Developer platforms lock in ecosystems for companies"
+      },
+      {
+        "bullet_index": 1,
+        "narration_segment_index": 2,
+        "start": 14.352,
+        "end": 21.984,
+        "duration": 7.632,
+        "box": {
+          "x": 90,
+          "y": 310,
+          "w": 600,
+          "h": 50
+        },
+        "text": "Examples include Microsoft Azure and Google Cloud"
+      },
+      {
+        "bullet_index": 2,
+        "narration_segment_index": 3,
+        "start": 21.984,
+        "end": 30.192,
+        "duration": 8.208,
+        "box": {
+          "x": 90,
+          "y": 376,
+          "w": 516,
+          "h": 50
+        },
+        "text": "Nvidia builds a moat with its developer tools"
+      }
+    ]
+  },
+  {
+    "slide_index": 12,
+    "image_path": "output_en_slide_en_speaker/slide_images/slide_12.png",
+    "audio_duration": 30.768,
+    "highlights": [
+      {
+        "bullet_index": 0,
+        "narration_segment_index": 1,
+        "start": 4.848,
+        "end": 13.392,
+        "duration": 8.544,
+        "box": {
+          "x": 90,
+          "y": 244,
+          "w": 585,
+          "h": 50
+        },
+        "text": "Tier 1: Ads, Recommendation, Core Product, Cloud"
+      },
+      {
+        "bullet_index": 1,
+        "narration_segment_index": 2,
+        "start": 13.392,
+        "end": 21.84,
+        "duration": 8.448,
+        "box": {
+          "x": 90,
+          "y": 310,
+          "w": 559,
+          "h": 50
+        },
+        "text": "Tier 2: Growth, Data Science, Marketplace, Trust"
+      },
+      {
+        "bullet_index": 2,
+        "narration_segment_index": 3,
+        "start": 21.84,
+        "end": 30.72,
+        "duration": 8.88,
+        "box": {
+          "x": 90,
+          "y": 376,
+          "w": 528,
+          "h": 50
+        },
+        "text": "Tier 3: Enterprise Sales, HR, Operations, Legal"
+      }
+    ]
+  },
+  {
+    "slide_index": 13,
+    "image_path": "output_en_slide_en_speaker/slide_images/slide_13.png",
+    "audio_duration": 30.528,
+    "highlights": [
+      {
+        "bullet_index": 0,
+        "narration_segment_index": 1,
+        "start": 4.248,
+        "end": 13.968,
+        "duration": 9.72,
+        "box": {
+          "x": 90,
+          "y": 244,
+          "w": 433,
+          "h": 50
+        },
+        "text": "Google: Search, Ads, YouTube, Cloud"
+      },
+      {
+        "bullet_index": 1,
+        "narration_segment_index": 2,
+        "start": 13.968,
+        "end": 22.392,
+        "duration": 8.424,
+        "box": {
+          "x": 90,
+          "y": 310,
+          "w": 496,
+          "h": 50
+        },
+        "text": "Amazon: AWS, Marketplace, Logistics, Ads"
+      },
+      {
+        "bullet_index": 2,
+        "narration_segment_index": 3,
+        "start": 22.392,
+        "end": 30.48,
+        "duration": 8.088,
+        "box": {
+          "x": 90,
+          "y": 376,
+          "w": 504,
+          "h": 50
+        },
+        "text": "Apple: iPhone, Services, Ecosystem, Privacy"
+      }
+    ]
+  }
+]

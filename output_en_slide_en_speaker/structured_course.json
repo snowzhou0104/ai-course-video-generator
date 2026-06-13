@@ -1,0 +1,434 @@
+{
+  "course_title": "Core Departments in Major Tech Companies",
+  "slides": [
+    {
+      "slide_index": 1,
+      "title": "Core Departments Overview",
+      "bullets": [
+        "Major departments include Ads, AI, Cloud, and Growth",
+        "Different companies prioritize departments differently",
+        "Examples: Google, Amazon, Microsoft, and Apple"
+      ],
+      "narration_segments": [
+        "In this slide, we will explore the core departments that define major tech companies.",
+        "These departments include Ads Monetization, AI/ML Platforms, Cloud Infrastructure, and Growth, which are crucial for revenue and innovation.",
+        "Each company, such as Google, Amazon, Microsoft, and Apple, places varying emphasis on these departments based on their business models.",
+        "For instance, Google focuses heavily on Ads and AI, while Amazon prioritizes its AWS and Marketplace."
+      ],
+      "speaker_script": "In this slide, we will explore the core departments that define major tech companies. These departments include Ads Monetization, AI/ML Platforms, Cloud Infrastructure, and Growth, which are crucial for revenue and innovation. Each company, such as Google, Amazon, Microsoft, and Apple, places varying emphasis on these departments based on their business models. For instance, Google focuses heavily on Ads and AI, while Amazon prioritizes its AWS and Marketplace.",
+      "highlight_plan": [
+        {
+          "bullet_index": 0,
+          "narration_segment_index": 1,
+          "text": "Major departments include Ads, AI, Cloud, and Growth"
+        },
+        {
+          "bullet_index": 1,
+          "narration_segment_index": 2,
+          "text": "Different companies prioritize departments differently"
+        },
+        {
+          "bullet_index": 2,
+          "narration_segment_index": 3,
+          "text": "Examples: Google, Amazon, Microsoft, and Apple"
+        }
+      ]
+    },
+    {
+      "slide_index": 2,
+      "title": "Ads Monetization as Revenue Driver",
+      "bullets": [
+        "Ads departments are closest to revenue generation",
+        "Google and Meta rely heavily on advertising revenue",
+        "Amazon's AWS and advertising also contribute significantly"
+      ],
+      "narration_segments": [
+        "Let's delve into how Ads Monetization serves as a critical revenue driver for tech companies.",
+        "Departments focused on Ads are pivotal as they directly generate revenue, especially for companies like Google and Meta.",
+        "For example, Google Services revenue growth is largely driven by Search and YouTube ads, which alone generated over $60 billion annually.",
+        "Similarly, Amazon's advertising business has become a major profit source alongside AWS, which reported $14.2 billion in operating income in Q1 2026."
+      ],
+      "speaker_script": "Let's delve into how Ads Monetization serves as a critical revenue driver for tech companies. Departments focused on Ads are pivotal as they directly generate revenue, especially for companies like Google and Meta. For example, Google Services revenue growth is largely driven by Search and YouTube ads, which alone generated over $60 billion annually. Similarly, Amazon's advertising business has become a major profit source alongside AWS, which reported $14.2 billion in operating income in Q1 2026.",
+      "highlight_plan": [
+        {
+          "bullet_index": 0,
+          "narration_segment_index": 1,
+          "text": "Ads departments are closest to revenue generation"
+        },
+        {
+          "bullet_index": 1,
+          "narration_segment_index": 2,
+          "text": "Google and Meta rely heavily on advertising revenue"
+        },
+        {
+          "bullet_index": 2,
+          "narration_segment_index": 3,
+          "text": "Amazon's AWS and advertising also contribute significantly"
+        }
+      ]
+    },
+    {
+      "slide_index": 3,
+      "title": "Importance of Recommendation Algorithms",
+      "bullets": [
+        "Recommendation systems drive user engagement and revenue",
+        "Core departments include Search and Feed Ranking",
+        "Examples: TikTok, Netflix, and Amazon recommendations"
+      ],
+      "narration_segments": [
+        "Now, let's examine the role of recommendation algorithms in tech companies.",
+        "These systems are crucial as they dictate what users see and interact with, directly impacting engagement and revenue.",
+        "For instance, TikTok's recommendation system is central to its user experience, while Netflix and Amazon also rely heavily on personalized recommendations to drive subscriptions and sales.",
+        "The technical complexity of these algorithms makes them one of the most strategically important areas within these companies."
+      ],
+      "speaker_script": "Now, let's examine the role of recommendation algorithms in tech companies. These systems are crucial as they dictate what users see and interact with, directly impacting engagement and revenue. For instance, TikTok's recommendation system is central to its user experience, while Netflix and Amazon also rely heavily on personalized recommendations to drive subscriptions and sales. The technical complexity of these algorithms makes them one of the most strategically important areas within these companies.",
+      "highlight_plan": [
+        {
+          "bullet_index": 0,
+          "narration_segment_index": 1,
+          "text": "Recommendation systems drive user engagement and revenue"
+        },
+        {
+          "bullet_index": 1,
+          "narration_segment_index": 2,
+          "text": "Core departments include Search and Feed Ranking"
+        },
+        {
+          "bullet_index": 2,
+          "narration_segment_index": 3,
+          "text": "Examples: TikTok, Netflix, and Amazon recommendations"
+        }
+      ]
+    },
+    {
+      "slide_index": 4,
+      "title": "Growth Beyond Traditional Marketing",
+      "bullets": [
+        "Growth focuses on data, experimentation, and user lifecycle",
+        "Includes user acquisition, retention, and conversion strategies",
+        "Major companies have dedicated Growth teams"
+      ],
+      "narration_segments": [
+        "Next, let's discuss the concept of Growth within major tech companies.",
+        "Unlike traditional marketing, Growth encompasses data analysis, experimentation, and user lifecycle management to optimize user engagement.",
+        "This includes strategies for user acquisition, retention, and conversion, which are essential for long-term success.",
+        "Companies like Meta, TikTok, and Amazon have established dedicated Growth teams to focus on these critical areas."
+      ],
+      "speaker_script": "Next, let's discuss the concept of Growth within major tech companies. Unlike traditional marketing, Growth encompasses data analysis, experimentation, and user lifecycle management to optimize user engagement. This includes strategies for user acquisition, retention, and conversion, which are essential for long-term success. Companies like Meta, TikTok, and Amazon have established dedicated Growth teams to focus on these critical areas.",
+      "highlight_plan": [
+        {
+          "bullet_index": 0,
+          "narration_segment_index": 1,
+          "text": "Growth focuses on data, experimentation, and user lifecycle"
+        },
+        {
+          "bullet_index": 1,
+          "narration_segment_index": 2,
+          "text": "Includes user acquisition, retention, and conversion strategies"
+        },
+        {
+          "bullet_index": 2,
+          "narration_segment_index": 3,
+          "text": "Major companies have dedicated Growth teams"
+        }
+      ]
+    },
+    {
+      "slide_index": 5,
+      "title": "Core Product Teams and Their Impact",
+      "bullets": [
+        "Not all product teams are equally important",
+        "Core teams control user entry points and revenue sources",
+        "Examples: Google Search, Amazon Marketplace, Apple iOS"
+      ],
+      "narration_segments": [
+        "Let's explore the significance of core product teams within tech companies.",
+        "While all product teams contribute, only a few are deemed core, as they control critical user entry points and revenue streams.",
+        "For example, Google’s Search and YouTube, Amazon’s Marketplace, and Apple’s iOS are essential for their respective companies' success.",
+        "These core product lines typically receive high attention from executives due to their direct impact on company valuation."
+      ],
+      "speaker_script": "Let's explore the significance of core product teams within tech companies. While all product teams contribute, only a few are deemed core, as they control critical user entry points and revenue streams. For example, Google’s Search and YouTube, Amazon’s Marketplace, and Apple’s iOS are essential for their respective companies' success. These core product lines typically receive high attention from executives due to their direct impact on company valuation.",
+      "highlight_plan": [
+        {
+          "bullet_index": 0,
+          "narration_segment_index": 1,
+          "text": "Not all product teams are equally important"
+        },
+        {
+          "bullet_index": 1,
+          "narration_segment_index": 2,
+          "text": "Core teams control user entry points and revenue sources"
+        },
+        {
+          "bullet_index": 2,
+          "narration_segment_index": 3,
+          "text": "Examples: Google Search, Amazon Marketplace, Apple iOS"
+        }
+      ]
+    },
+    {
+      "slide_index": 6,
+      "title": "Cloud and Infrastructure's Growing Importance",
+      "bullets": [
+        "Cloud departments are foundational in the AI era",
+        "Microsoft Azure and AWS are major profit engines",
+        "Nvidia's Data Center revenue shows industry growth"
+      ],
+      "narration_segments": [
+        "Now, let's look at the foundational role of Cloud and Infrastructure departments.",
+        "In today's AI-driven landscape, these departments have become essential for scalability and performance, with Microsoft Azure and AWS leading the charge.",
+        "For instance, Microsoft reported Azure revenue exceeding $75 billion in 2025, highlighting its importance as a growth engine.",
+        "Similarly, Nvidia's Data Center revenue reached $75.2 billion, showcasing the increasing demand for AI infrastructure."
+      ],
+      "speaker_script": "Now, let's look at the foundational role of Cloud and Infrastructure departments. In today's AI-driven landscape, these departments have become essential for scalability and performance, with Microsoft Azure and AWS leading the charge. For instance, Microsoft reported Azure revenue exceeding $75 billion in 2025, highlighting its importance as a growth engine. Similarly, Nvidia's Data Center revenue reached $75.2 billion, showcasing the increasing demand for AI infrastructure.",
+      "highlight_plan": [
+        {
+          "bullet_index": 0,
+          "narration_segment_index": 1,
+          "text": "Cloud departments are foundational in the AI era"
+        },
+        {
+          "bullet_index": 1,
+          "narration_segment_index": 2,
+          "text": "Microsoft Azure and AWS are major profit engines"
+        },
+        {
+          "bullet_index": 2,
+          "narration_segment_index": 3,
+          "text": "Nvidia's Data Center revenue shows industry growth"
+        }
+      ]
+    },
+    {
+      "slide_index": 7,
+      "title": "AI/ML Platforms as Core Production Departments",
+      "bullets": [
+        "AI/ML has shifted from research to production",
+        "Core areas include LLMs, Ads Models, and AI Safety",
+        "Major investments by Google, Microsoft, and others"
+      ],
+      "narration_segments": [
+        "Next, we will discuss the evolution of AI/ML platforms within tech companies.",
+        "AI/ML departments have transitioned from purely research-focused to core production units that address business needs.",
+        "Key areas include large language models, ads models, and AI safety protocols, which are crucial for operational success.",
+        "Companies like Google and Microsoft are heavily investing in these areas, reflecting their growing importance in the tech landscape."
+      ],
+      "speaker_script": "Next, we will discuss the evolution of AI/ML platforms within tech companies. AI/ML departments have transitioned from purely research-focused to core production units that address business needs. Key areas include large language models, ads models, and AI safety protocols, which are crucial for operational success. Companies like Google and Microsoft are heavily investing in these areas, reflecting their growing importance in the tech landscape.",
+      "highlight_plan": [
+        {
+          "bullet_index": 0,
+          "narration_segment_index": 1,
+          "text": "AI/ML has shifted from research to production"
+        },
+        {
+          "bullet_index": 1,
+          "narration_segment_index": 2,
+          "text": "Core areas include LLMs, Ads Models, and AI Safety"
+        },
+        {
+          "bullet_index": 2,
+          "narration_segment_index": 3,
+          "text": "Major investments by Google, Microsoft, and others"
+        }
+      ]
+    },
+    {
+      "slide_index": 8,
+      "title": "Data and Experimentation as Decision-Making Centers",
+      "bullets": [
+        "Data departments guide product decisions",
+        "Utilize A/B testing and causal analysis",
+        "Roles include Data Scientists and Engineers"
+      ],
+      "narration_segments": [
+        "Let's explore the critical role of data and experimentation in tech companies.",
+        "These departments serve as decision-making centers, guiding product strategies based on data-driven insights.",
+        "Tech companies rely on methods like A/B testing and causal analysis to inform their product decisions, ensuring they are backed by solid evidence.",
+        "Roles such as Data Scientists and Engineers are vital in these departments, particularly in Ads, Growth, and Product teams."
+      ],
+      "speaker_script": "Let's explore the critical role of data and experimentation in tech companies. These departments serve as decision-making centers, guiding product strategies based on data-driven insights. Tech companies rely on methods like A/B testing and causal analysis to inform their product decisions, ensuring they are backed by solid evidence. Roles such as Data Scientists and Engineers are vital in these departments, particularly in Ads, Growth, and Product teams.",
+      "highlight_plan": [
+        {
+          "bullet_index": 0,
+          "narration_segment_index": 1,
+          "text": "Data departments guide product decisions"
+        },
+        {
+          "bullet_index": 1,
+          "narration_segment_index": 2,
+          "text": "Utilize A/B testing and causal analysis"
+        },
+        {
+          "bullet_index": 2,
+          "narration_segment_index": 3,
+          "text": "Roles include Data Scientists and Engineers"
+        }
+      ]
+    },
+    {
+      "slide_index": 9,
+      "title": "Trust, Safety, and Privacy as Core Functions",
+      "bullets": [
+        "Trust and safety departments are now essential",
+        "Focus on compliance, content safety, and security",
+        "Major companies prioritize these areas"
+      ],
+      "narration_segments": [
+        "Now, let's discuss the increasing importance of trust, safety, and privacy departments.",
+        "These functions have evolved from support roles to essential departments that ensure compliance and user safety.",
+        "They focus on areas like advertising privacy, content moderation, and account security, which are critical for sustaining operations.",
+        "Companies such as Meta, Google, and Apple are heavily investing in these areas to mitigate regulatory pressures."
+      ],
+      "speaker_script": "Now, let's discuss the increasing importance of trust, safety, and privacy departments. These functions have evolved from support roles to essential departments that ensure compliance and user safety. They focus on areas like advertising privacy, content moderation, and account security, which are critical for sustaining operations. Companies such as Meta, Google, and Apple are heavily investing in these areas to mitigate regulatory pressures.",
+      "highlight_plan": [
+        {
+          "bullet_index": 0,
+          "narration_segment_index": 1,
+          "text": "Trust and safety departments are now essential"
+        },
+        {
+          "bullet_index": 1,
+          "narration_segment_index": 2,
+          "text": "Focus on compliance, content safety, and security"
+        },
+        {
+          "bullet_index": 2,
+          "narration_segment_index": 3,
+          "text": "Major companies prioritize these areas"
+        }
+      ]
+    },
+    {
+      "slide_index": 10,
+      "title": "Marketplace and Commerce in Tech",
+      "bullets": [
+        "Marketplace departments are vital for Amazon and Apple",
+        "Include logistics, payments, and fulfillment",
+        "Services revenue is crucial for Apple"
+      ],
+      "narration_segments": [
+        "Next, let's examine the role of marketplace and commerce departments in tech companies.",
+        "These departments are particularly vital for companies like Amazon and Apple, as they encompass logistics, payments, and fulfillment.",
+        "For Amazon, the Marketplace is not just an e-commerce platform but a comprehensive system that integrates various services.",
+        "Apple's Services revenue has also reached record highs, showcasing the importance of this sector beyond hardware sales."
+      ],
+      "speaker_script": "Next, let's examine the role of marketplace and commerce departments in tech companies. These departments are particularly vital for companies like Amazon and Apple, as they encompass logistics, payments, and fulfillment. For Amazon, the Marketplace is not just an e-commerce platform but a comprehensive system that integrates various services. Apple's Services revenue has also reached record highs, showcasing the importance of this sector beyond hardware sales.",
+      "highlight_plan": [
+        {
+          "bullet_index": 0,
+          "narration_segment_index": 1,
+          "text": "Marketplace departments are vital for Amazon and Apple"
+        },
+        {
+          "bullet_index": 1,
+          "narration_segment_index": 2,
+          "text": "Include logistics, payments, and fulfillment"
+        },
+        {
+          "bullet_index": 2,
+          "narration_segment_index": 3,
+          "text": "Services revenue is crucial for Apple"
+        }
+      ]
+    },
+    {
+      "slide_index": 11,
+      "title": "Developer Ecosystem as a Competitive Advantage",
+      "bullets": [
+        "Developer platforms lock in ecosystems for companies",
+        "Examples include Microsoft Azure and Google Cloud",
+        "Nvidia builds a moat with its developer tools"
+      ],
+      "narration_segments": [
+        "Now, let's discuss the significance of developer ecosystems in major tech companies.",
+        "These platforms are not just about immediate revenue; they create long-term competitive advantages by locking in developers.",
+        "For instance, Microsoft’s Azure and Google Cloud provide extensive tools and resources to foster developer engagement.",
+        "Nvidia exemplifies this by building a strong moat through its CUDA platform and AI libraries, which enhance its market position."
+      ],
+      "speaker_script": "Now, let's discuss the significance of developer ecosystems in major tech companies. These platforms are not just about immediate revenue; they create long-term competitive advantages by locking in developers. For instance, Microsoft’s Azure and Google Cloud provide extensive tools and resources to foster developer engagement. Nvidia exemplifies this by building a strong moat through its CUDA platform and AI libraries, which enhance its market position.",
+      "highlight_plan": [
+        {
+          "bullet_index": 0,
+          "narration_segment_index": 1,
+          "text": "Developer platforms lock in ecosystems for companies"
+        },
+        {
+          "bullet_index": 1,
+          "narration_segment_index": 2,
+          "text": "Examples include Microsoft Azure and Google Cloud"
+        },
+        {
+          "bullet_index": 2,
+          "narration_segment_index": 3,
+          "text": "Nvidia builds a moat with its developer tools"
+        }
+      ]
+    },
+    {
+      "slide_index": 12,
+      "title": "Ranking of Core Departments",
+      "bullets": [
+        "Tier 1: Ads, Recommendation, Core Product, Cloud",
+        "Tier 2: Growth, Data Science, Marketplace, Trust",
+        "Tier 3: Enterprise Sales, HR, Operations, Legal"
+      ],
+      "narration_segments": [
+        "Finally, let's look at the ranking of core departments in major tech companies.",
+        "The most critical departments, or Tier 1, include Ads Monetization, Recommendation Systems, Core Product, and Cloud Infrastructure.",
+        "Tier 2 departments, while important, may not be the top priority for every company, including Growth and Data Science.",
+        "Lastly, Tier 3 departments, such as Enterprise Sales and HR, are essential but typically not part of the technical core."
+      ],
+      "speaker_script": "Finally, let's look at the ranking of core departments in major tech companies. The most critical departments, or Tier 1, include Ads Monetization, Recommendation Systems, Core Product, and Cloud Infrastructure. Tier 2 departments, while important, may not be the top priority for every company, including Growth and Data Science. Lastly, Tier 3 departments, such as Enterprise Sales and HR, are essential but typically not part of the technical core.",
+      "highlight_plan": [
+        {
+          "bullet_index": 0,
+          "narration_segment_index": 1,
+          "text": "Tier 1: Ads, Recommendation, Core Product, Cloud"
+        },
+        {
+          "bullet_index": 1,
+          "narration_segment_index": 2,
+          "text": "Tier 2: Growth, Data Science, Marketplace, Trust"
+        },
+        {
+          "bullet_index": 2,
+          "narration_segment_index": 3,
+          "text": "Tier 3: Enterprise Sales, HR, Operations, Legal"
+        }
+      ]
+    },
+    {
+      "slide_index": 13,
+      "title": "Company-Specific Core Departments",
+      "bullets": [
+        "Google: Search, Ads, YouTube, Cloud",
+        "Amazon: AWS, Marketplace, Logistics, Ads",
+        "Apple: iPhone, Services, Ecosystem, Privacy"
+      ],
+      "narration_segments": [
+        "Let's take a closer look at the core departments specific to major tech companies.",
+        "For Google, the most core departments include Search, Ads, YouTube, and Cloud, which drive both revenue and user engagement.",
+        "Amazon's core departments encompass AWS, Marketplace, Logistics, and Ads, reflecting its diverse business model.",
+        "Apple's core includes the iPhone, Services, Ecosystem, and Privacy, showcasing its integrated approach to hardware and software."
+      ],
+      "speaker_script": "Let's take a closer look at the core departments specific to major tech companies. For Google, the most core departments include Search, Ads, YouTube, and Cloud, which drive both revenue and user engagement. Amazon's core departments encompass AWS, Marketplace, Logistics, and Ads, reflecting its diverse business model. Apple's core includes the iPhone, Services, Ecosystem, and Privacy, showcasing its integrated approach to hardware and software.",
+      "highlight_plan": [
+        {
+          "bullet_index": 0,
+          "narration_segment_index": 1,
+          "text": "Google: Search, Ads, YouTube, Cloud"
+        },
+        {
+          "bullet_index": 1,
+          "narration_segment_index": 2,
+          "text": "Amazon: AWS, Marketplace, Logistics, Ads"
+        },
+        {
+          "bullet_index": 2,
+          "narration_segment_index": 3,
+          "text": "Apple: iPhone, Services, Ecosystem, Privacy"
+        }
+      ]
+    }
+  ]
+}

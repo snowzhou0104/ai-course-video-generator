@@ -1,0 +1,509 @@
+[
+  {
+    "slide_index": 1,
+    "audio_path": "output_en_slide_cn_speaker/audio/slide_01.mp3",
+    "duration": 33.888,
+    "segments": [
+      {
+        "segment_index": 0,
+        "text": "在这一页中，我们将探讨定义主要科技公司的核心部门。",
+        "audio_path": "output_en_slide_cn_speaker/audio/segments/slide_01_seg_0.mp3",
+        "start": 0.0,
+        "end": 5.16,
+        "duration": 5.16
+      },
+      {
+        "segment_index": 1,
+        "text": "这些部门包括广告变现、人工智能/机器学习平台、云基础设施和增长，这些都是推动收入和创新的重要因素。",
+        "audio_path": "output_en_slide_cn_speaker/audio/segments/slide_01_seg_1.mp3",
+        "start": 5.16,
+        "end": 15.864,
+        "duration": 10.704
+      },
+      {
+        "segment_index": 2,
+        "text": "每个公司，比如谷歌、亚马逊、微软和苹果，都会根据其商业模式对这些部门给予不同的重视。",
+        "audio_path": "output_en_slide_cn_speaker/audio/segments/slide_01_seg_2.mp3",
+        "start": 15.864,
+        "end": 25.056,
+        "duration": 9.192
+      },
+      {
+        "segment_index": 3,
+        "text": "例如，谷歌非常重视广告和人工智能，而亚马逊则将重心放在其AWS和市场上。",
+        "audio_path": "output_en_slide_cn_speaker/audio/segments/slide_01_seg_3.mp3",
+        "start": 25.056,
+        "end": 33.84,
+        "duration": 8.784
+      }
+    ]
+  },
+  {
+    "slide_index": 2,
+    "audio_path": "output_en_slide_cn_speaker/audio/slide_02.mp3",
+    "duration": 37.584,
+    "segments": [
+      {
+        "segment_index": 0,
+        "text": "让我们深入探讨广告变现如何成为科技公司重要的收入驱动力。",
+        "audio_path": "output_en_slide_cn_speaker/audio/segments/slide_02_seg_0.mp3",
+        "start": 0.0,
+        "end": 6.144,
+        "duration": 6.144
+      },
+      {
+        "segment_index": 1,
+        "text": "专注于广告的部门至关重要，因为它们直接产生收入，尤其是对于像Google和Meta这样的公司。",
+        "audio_path": "output_en_slide_cn_speaker/audio/segments/slide_02_seg_1.mp3",
+        "start": 6.144,
+        "end": 14.688,
+        "duration": 8.544
+      },
+      {
+        "segment_index": 2,
+        "text": "例如，Google Services的收入增长主要得益于搜索和YouTube广告，这两者每年就创造了超过600亿美元的收入。",
+        "audio_path": "output_en_slide_cn_speaker/audio/segments/slide_02_seg_2.mp3",
+        "start": 14.688,
+        "end": 24.24,
+        "duration": 9.552
+      },
+      {
+        "segment_index": 3,
+        "text": "同样，亚马逊的广告业务也成为了与AWS并肩的重要利润来源，AWS在2026年第一季度报告的营业收入达到了142亿美元。",
+        "audio_path": "output_en_slide_cn_speaker/audio/segments/slide_02_seg_3.mp3",
+        "start": 24.24,
+        "end": 37.536,
+        "duration": 13.296
+      }
+    ]
+  },
+  {
+    "slide_index": 3,
+    "audio_path": "output_en_slide_cn_speaker/audio/slide_03.mp3",
+    "duration": 31.176,
+    "segments": [
+      {
+        "segment_index": 0,
+        "text": "现在，让我们来探讨推荐算法在科技公司中的作用。",
+        "audio_path": "output_en_slide_cn_speaker/audio/segments/slide_03_seg_0.mp3",
+        "start": 0.0,
+        "end": 5.4,
+        "duration": 5.4
+      },
+      {
+        "segment_index": 1,
+        "text": "这些系统至关重要，因为它们决定了用户看到和互动的内容，直接影响用户参与度和收入。",
+        "audio_path": "output_en_slide_cn_speaker/audio/segments/slide_03_seg_1.mp3",
+        "start": 5.4,
+        "end": 13.584,
+        "duration": 8.184
+      },
+      {
+        "segment_index": 2,
+        "text": "例如，TikTok的推荐系统是其用户体验的核心，而Netflix和Amazon也非常依赖个性化推荐来推动订阅和销售。",
+        "audio_path": "output_en_slide_cn_speaker/audio/segments/slide_03_seg_2.mp3",
+        "start": 13.584,
+        "end": 24.24,
+        "duration": 10.656
+      },
+      {
+        "segment_index": 3,
+        "text": "这些算法的技术复杂性使它们成为这些公司中最具战略重要性的领域之一。",
+        "audio_path": "output_en_slide_cn_speaker/audio/segments/slide_03_seg_3.mp3",
+        "start": 24.24,
+        "end": 31.128,
+        "duration": 6.888
+      }
+    ]
+  },
+  {
+    "slide_index": 4,
+    "audio_path": "output_en_slide_cn_speaker/audio/slide_04.mp3",
+    "duration": 29.064,
+    "segments": [
+      {
+        "segment_index": 0,
+        "text": "接下来，我们来讨论一下大型科技公司中的增长概念。",
+        "audio_path": "output_en_slide_cn_speaker/audio/segments/slide_04_seg_0.mp3",
+        "start": 0.0,
+        "end": 5.304,
+        "duration": 5.304
+      },
+      {
+        "segment_index": 1,
+        "text": "与传统营销不同，增长侧重于数据分析、实验和用户生命周期管理，以优化用户参与度。",
+        "audio_path": "output_en_slide_cn_speaker/audio/segments/slide_04_seg_1.mp3",
+        "start": 5.304,
+        "end": 14.088,
+        "duration": 8.784
+      },
+      {
+        "segment_index": 2,
+        "text": "这包括用户获取、留存和转化的策略，这些对于长期成功至关重要。",
+        "audio_path": "output_en_slide_cn_speaker/audio/segments/slide_04_seg_2.mp3",
+        "start": 14.088,
+        "end": 20.808,
+        "duration": 6.72
+      },
+      {
+        "segment_index": 3,
+        "text": "像Meta、TikTok和Amazon这样的公司都设立了专门的增长团队，专注于这些关键领域。",
+        "audio_path": "output_en_slide_cn_speaker/audio/segments/slide_04_seg_3.mp3",
+        "start": 20.808,
+        "end": 29.016,
+        "duration": 8.208
+      }
+    ]
+  },
+  {
+    "slide_index": 5,
+    "audio_path": "output_en_slide_cn_speaker/audio/slide_05.mp3",
+    "duration": 31.704,
+    "segments": [
+      {
+        "segment_index": 0,
+        "text": "让我们来探讨一下核心产品团队在科技公司中的重要性。",
+        "audio_path": "output_en_slide_cn_speaker/audio/segments/slide_05_seg_0.mp3",
+        "start": 0.0,
+        "end": 5.496,
+        "duration": 5.496
+      },
+      {
+        "segment_index": 1,
+        "text": "虽然所有产品团队都有贡献，但只有少数被视为核心团队，因为它们控制着关键的用户入口和收入来源。",
+        "audio_path": "output_en_slide_cn_speaker/audio/segments/slide_05_seg_1.mp3",
+        "start": 5.496,
+        "end": 15.12,
+        "duration": 9.624
+      },
+      {
+        "segment_index": 2,
+        "text": "例如，Google 的搜索和 YouTube、Amazon 的市场以及 Apple 的 iOS 对各自公司的成功至关重要。",
+        "audio_path": "output_en_slide_cn_speaker/audio/segments/slide_05_seg_2.mp3",
+        "start": 15.12,
+        "end": 23.712,
+        "duration": 8.592
+      },
+      {
+        "segment_index": 3,
+        "text": "这些核心产品线通常会受到高层管理者的高度关注，因为它们直接影响公司的估值。",
+        "audio_path": "output_en_slide_cn_speaker/audio/segments/slide_05_seg_3.mp3",
+        "start": 23.712,
+        "end": 31.656,
+        "duration": 7.944
+      }
+    ]
+  },
+  {
+    "slide_index": 6,
+    "audio_path": "output_en_slide_cn_speaker/audio/slide_06.mp3",
+    "duration": 35.64,
+    "segments": [
+      {
+        "segment_index": 0,
+        "text": "现在，让我们来看看云和基础设施部门的基础性作用。",
+        "audio_path": "output_en_slide_cn_speaker/audio/segments/slide_06_seg_0.mp3",
+        "start": 0.0,
+        "end": 5.328,
+        "duration": 5.328
+      },
+      {
+        "segment_index": 1,
+        "text": "在当今以人工智能为驱动的环境中，这些部门已成为可扩展性和性能的关键，微软Azure和AWS正引领这一潮流。",
+        "audio_path": "output_en_slide_cn_speaker/audio/segments/slide_06_seg_1.mp3",
+        "start": 5.328,
+        "end": 16.44,
+        "duration": 11.112
+      },
+      {
+        "segment_index": 2,
+        "text": "例如，微软报告称，2025年Azure的收入超过750亿美元，突显了它作为增长引擎的重要性。",
+        "audio_path": "output_en_slide_cn_speaker/audio/segments/slide_06_seg_2.mp3",
+        "start": 16.44,
+        "end": 26.016,
+        "duration": 9.576
+      },
+      {
+        "segment_index": 3,
+        "text": "同样，Nvidia的数据中心收入达到了752亿美元，展示了对人工智能基础设施日益增长的需求。",
+        "audio_path": "output_en_slide_cn_speaker/audio/segments/slide_06_seg_3.mp3",
+        "start": 26.016,
+        "end": 35.592,
+        "duration": 9.576
+      }
+    ]
+  },
+  {
+    "slide_index": 7,
+    "audio_path": "output_en_slide_cn_speaker/audio/slide_07.mp3",
+    "duration": 30.768,
+    "segments": [
+      {
+        "segment_index": 0,
+        "text": "接下来，我们将讨论科技公司中AI/ML平台的发展演变。",
+        "audio_path": "output_en_slide_cn_speaker/audio/segments/slide_07_seg_0.mp3",
+        "start": 0.0,
+        "end": 5.808,
+        "duration": 5.808
+      },
+      {
+        "segment_index": 1,
+        "text": "AI/ML部门已经从单纯的研究转变为满足业务需求的核心生产单位。",
+        "audio_path": "output_en_slide_cn_speaker/audio/segments/slide_07_seg_1.mp3",
+        "start": 5.808,
+        "end": 12.6,
+        "duration": 6.792
+      },
+      {
+        "segment_index": 2,
+        "text": "关键领域包括大型语言模型、广告模型和AI安全协议，这些对运营成功至关重要。",
+        "audio_path": "output_en_slide_cn_speaker/audio/segments/slide_07_seg_2.mp3",
+        "start": 12.6,
+        "end": 21.144,
+        "duration": 8.544
+      },
+      {
+        "segment_index": 3,
+        "text": "像Google和Microsoft这样的公司正在这些领域进行大量投资，反映了它们在科技领域日益增长的重要性。",
+        "audio_path": "output_en_slide_cn_speaker/audio/segments/slide_07_seg_3.mp3",
+        "start": 21.144,
+        "end": 30.72,
+        "duration": 9.576
+      }
+    ]
+  },
+  {
+    "slide_index": 8,
+    "audio_path": "output_en_slide_cn_speaker/audio/slide_08.mp3",
+    "duration": 30.576,
+    "segments": [
+      {
+        "segment_index": 0,
+        "text": "让我们来探讨数据和实验在科技公司中扮演的重要角色。",
+        "audio_path": "output_en_slide_cn_speaker/audio/segments/slide_08_seg_0.mp3",
+        "start": 0.0,
+        "end": 5.544,
+        "duration": 5.544
+      },
+      {
+        "segment_index": 1,
+        "text": "这些部门作为决策中心，根据数据驱动的洞察来指导产品策略。",
+        "audio_path": "output_en_slide_cn_speaker/audio/segments/slide_08_seg_1.mp3",
+        "start": 5.544,
+        "end": 11.928,
+        "duration": 6.384
+      },
+      {
+        "segment_index": 2,
+        "text": "科技公司依赖A/B测试和因果分析等方法来支持他们的产品决策，确保这些决策有坚实的证据基础。",
+        "audio_path": "output_en_slide_cn_speaker/audio/segments/slide_08_seg_2.mp3",
+        "start": 11.928,
+        "end": 21.624,
+        "duration": 9.696
+      },
+      {
+        "segment_index": 3,
+        "text": "数据科学家和工程师等角色在这些部门中至关重要，尤其是在广告、增长和产品团队中。",
+        "audio_path": "output_en_slide_cn_speaker/audio/segments/slide_08_seg_3.mp3",
+        "start": 21.624,
+        "end": 30.528,
+        "duration": 8.904
+      }
+    ]
+  },
+  {
+    "slide_index": 9,
+    "audio_path": "output_en_slide_cn_speaker/audio/slide_09.mp3",
+    "duration": 27.96,
+    "segments": [
+      {
+        "segment_index": 0,
+        "text": "现在，让我们来讨论信任、安全和隐私部门日益重要的角色。",
+        "audio_path": "output_en_slide_cn_speaker/audio/segments/slide_09_seg_0.mp3",
+        "start": 0.0,
+        "end": 6.12,
+        "duration": 6.12
+      },
+      {
+        "segment_index": 1,
+        "text": "这些职能已经从支持角色演变为确保合规性和用户安全的核心部门。",
+        "audio_path": "output_en_slide_cn_speaker/audio/segments/slide_09_seg_1.mp3",
+        "start": 6.12,
+        "end": 12.912,
+        "duration": 6.792
+      },
+      {
+        "segment_index": 2,
+        "text": "它们关注广告隐私、内容审核和账户安全等领域，这些对维持运营至关重要。",
+        "audio_path": "output_en_slide_cn_speaker/audio/segments/slide_09_seg_2.mp3",
+        "start": 12.912,
+        "end": 20.544,
+        "duration": 7.632
+      },
+      {
+        "segment_index": 3,
+        "text": "像Meta、Google和Apple这样的公司正在大力投资这些领域，以减轻监管压力。",
+        "audio_path": "output_en_slide_cn_speaker/audio/segments/slide_09_seg_3.mp3",
+        "start": 20.544,
+        "end": 27.912,
+        "duration": 7.368
+      }
+    ]
+  },
+  {
+    "slide_index": 10,
+    "audio_path": "output_en_slide_cn_speaker/audio/slide_10.mp3",
+    "duration": 31.272,
+    "segments": [
+      {
+        "segment_index": 0,
+        "text": "接下来，我们来探讨一下科技公司中市场和商业部门的角色。",
+        "audio_path": "output_en_slide_cn_speaker/audio/segments/slide_10_seg_0.mp3",
+        "start": 0.0,
+        "end": 6.0,
+        "duration": 6.0
+      },
+      {
+        "segment_index": 1,
+        "text": "这些部门对于像亚马逊和苹果这样的公司尤为重要，因为它们涵盖了物流、支付和履约等多个方面。",
+        "audio_path": "output_en_slide_cn_speaker/audio/segments/slide_10_seg_1.mp3",
+        "start": 6.0,
+        "end": 15.552,
+        "duration": 9.552
+      },
+      {
+        "segment_index": 2,
+        "text": "对于亚马逊来说，市场不仅仅是一个电子商务平台，而是一个整合了多种服务的综合系统。",
+        "audio_path": "output_en_slide_cn_speaker/audio/segments/slide_10_seg_2.mp3",
+        "start": 15.552,
+        "end": 23.592,
+        "duration": 8.04
+      },
+      {
+        "segment_index": 3,
+        "text": "苹果的服务收入也达到了创纪录的高点，显示了这一领域在硬件销售之外的重要性。",
+        "audio_path": "output_en_slide_cn_speaker/audio/segments/slide_10_seg_3.mp3",
+        "start": 23.592,
+        "end": 31.224,
+        "duration": 7.632
+      }
+    ]
+  },
+  {
+    "slide_index": 11,
+    "audio_path": "output_en_slide_cn_speaker/audio/slide_11.mp3",
+    "duration": 30.24,
+    "segments": [
+      {
+        "segment_index": 0,
+        "text": "现在，让我们来讨论开发者生态系统在主要科技公司中的重要性。",
+        "audio_path": "output_en_slide_cn_speaker/audio/segments/slide_11_seg_0.mp3",
+        "start": 0.0,
+        "end": 6.432,
+        "duration": 6.432
+      },
+      {
+        "segment_index": 1,
+        "text": "这些平台不仅仅是为了短期收入；它们通过锁定开发者来创造长期的竞争优势。",
+        "audio_path": "output_en_slide_cn_speaker/audio/segments/slide_11_seg_1.mp3",
+        "start": 6.432,
+        "end": 14.352,
+        "duration": 7.92
+      },
+      {
+        "segment_index": 2,
+        "text": "例如，微软的Azure和谷歌云提供了丰富的工具和资源，以促进开发者的参与。",
+        "audio_path": "output_en_slide_cn_speaker/audio/segments/slide_11_seg_2.mp3",
+        "start": 14.352,
+        "end": 21.984,
+        "duration": 7.632
+      },
+      {
+        "segment_index": 3,
+        "text": "Nvidia通过其CUDA平台和人工智能库构建了强大的护城河，从而增强了其市场地位。",
+        "audio_path": "output_en_slide_cn_speaker/audio/segments/slide_11_seg_3.mp3",
+        "start": 21.984,
+        "end": 30.192,
+        "duration": 8.208
+      }
+    ]
+  },
+  {
+    "slide_index": 12,
+    "audio_path": "output_en_slide_cn_speaker/audio/slide_12.mp3",
+    "duration": 30.768,
+    "segments": [
+      {
+        "segment_index": 0,
+        "text": "最后，我们来看看主要科技公司的核心部门排名。",
+        "audio_path": "output_en_slide_cn_speaker/audio/segments/slide_12_seg_0.mp3",
+        "start": 0.0,
+        "end": 4.848,
+        "duration": 4.848
+      },
+      {
+        "segment_index": 1,
+        "text": "最关键的部门，也就是第一层级，包括广告变现、推荐系统、核心产品和云基础设施。",
+        "audio_path": "output_en_slide_cn_speaker/audio/segments/slide_12_seg_1.mp3",
+        "start": 4.848,
+        "end": 13.392,
+        "duration": 8.544
+      },
+      {
+        "segment_index": 2,
+        "text": "第二层级的部门虽然重要，但并不是每家公司都将其作为首要任务，包括增长和数据科学。",
+        "audio_path": "output_en_slide_cn_speaker/audio/segments/slide_12_seg_2.mp3",
+        "start": 13.392,
+        "end": 21.84,
+        "duration": 8.448
+      },
+      {
+        "segment_index": 3,
+        "text": "最后，第三层级的部门，如企业销售和人力资源，虽然不可或缺，但通常不属于技术核心。",
+        "audio_path": "output_en_slide_cn_speaker/audio/segments/slide_12_seg_3.mp3",
+        "start": 21.84,
+        "end": 30.72,
+        "duration": 8.88
+      }
+    ]
+  },
+  {
+    "slide_index": 13,
+    "audio_path": "output_en_slide_cn_speaker/audio/slide_13.mp3",
+    "duration": 30.528,
+    "segments": [
+      {
+        "segment_index": 0,
+        "text": "我们来深入了解一下主要科技公司的核心部门。",
+        "audio_path": "output_en_slide_cn_speaker/audio/segments/slide_13_seg_0.mp3",
+        "start": 0.0,
+        "end": 4.248,
+        "duration": 4.248
+      },
+      {
+        "segment_index": 1,
+        "text": "对于Google来说，最核心的部门包括搜索、广告、YouTube和云计算，这些部门推动了收入和用户参与度。",
+        "audio_path": "output_en_slide_cn_speaker/audio/segments/slide_13_seg_1.mp3",
+        "start": 4.248,
+        "end": 13.968,
+        "duration": 9.72
+      },
+      {
+        "segment_index": 2,
+        "text": "亚马逊的核心部门包括AWS、市场、物流和广告，体现了其多元化的商业模式。",
+        "audio_path": "output_en_slide_cn_speaker/audio/segments/slide_13_seg_2.mp3",
+        "start": 13.968,
+        "end": 22.392,
+        "duration": 8.424
+      },
+      {
+        "segment_index": 3,
+        "text": "苹果的核心包括iPhone、服务、生态系统和隐私，展示了其硬件和软件的整合方式。",
+        "audio_path": "output_en_slide_cn_speaker/audio/segments/slide_13_seg_3.mp3",
+        "start": 22.392,
+        "end": 30.48,
+        "duration": 8.088
+      }
+    ]
+  }
+]

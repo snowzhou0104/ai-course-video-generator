@@ -24,6 +24,10 @@ SYSTEM_PROMPT = (
     "Do NOT return only one narration segment per bullet. "
     "Do NOT omit the intro segment. "
     "A slide with 3 narration_segments is INVALID.\n\n"
+    "CONTENT QUALITY:\n"
+    "Preserve the specific facts, numbers, mechanisms, and examples from the "
+    "source script, and keep every example attached to the topic it supports "
+    "in the source. Never pad a slide with vague filler.\n\n"
     "Always respond with a single valid JSON object and nothing else - "
     "no markdown, no code fences, no commentary."
 )
@@ -84,6 +88,44 @@ Rules:
 6. "highlight_plan": EXACTLY 3 entries as shown above, where "text" is a copy of the corresponding bullet.
 7. Together, the narration across all slides should cover the important content of the script - do not drop information.
 8. "course_title": a short, descriptive title for the whole course, based on the script.
+
+Content quality rules (apply to every slide, for any course document):
+
+A. Source-grounded bullets. Each bullet must preserve a concrete insight from the source document. Avoid vague bullets such as "X is important", "X exists", "X is useful", or "Companies invest in X" - unless the source provides a specific reason, mechanism, example, metric, or consequence, in which case state it.
+
+B. Mechanism over generic statement. Prefer bullets that explain HOW or WHY something works.
+   Prefer: "A/B testing guides product decisions"
+   Over:   "Experimentation is important"
+
+C. Keep examples attached to the correct topic. If the source gives examples, keep each example under the concept it supports. Do not move examples across unrelated sections, even if the same entity appears in multiple sections - use the aspect that belongs to the current slide's topic.
+
+D. Preserve specific mechanisms. If the source mentions concrete mechanisms, tools, workflows, metrics, or systems, include them concisely in bullets when relevant. Mechanism categories include things like: ranking, retrieval, attribution, bidding, A/B testing, model serving, compliance, payments, fraud detection, user lifecycle, infrastructure, evaluation. (These are categories of what to look for, not required terms.)
+
+E. Avoid shallow example bullets. Do not write bullets that only say an entity has or does something, with no substance.
+   Bad:    "Growth teams exist at major companies."
+   Better: "Growth combines product, data, experimentation, and lifecycle optimization."
+
+F. Preserve source hierarchy. If the source has sections, tiers, stages, or categories, preserve that structure when creating slides. Do not merge unrelated concepts just to reduce slide count.
+
+G. Bullet quality. Each of the 3 bullets must be: concise, information-rich, specific to the slide topic, useful for teaching, and grounded in the source.
+
+H. Narration quality. Each narration segment must explain its bullet with ADDITIONAL context from the source - reasons, consequences, examples, or details that did not fit on the slide. Do not simply repeat or rephrase the bullet.
+
+I. Preserve concrete numbers. When the source provides important numbers, metrics, dates, rankings, percentages, revenue figures, growth rates, counts, tiers, or quantitative comparisons, preserve the most relevant ones in the bullets or narration if they support the slide topic. Do not invent numbers. Do not force numbers onto every slide. Use numbers only when they are source-grounded and helpful for teaching.
+
+J. Avoid bullets that only say a topic or department exists, is crucial, or receives investment. Prefer bullets that explain the mechanism, business impact, or a concrete source-backed example.
+
+K. Coverage of final sections. If the source document contains explicit final sections such as rankings, comparisons, summary tables, tier lists, company-specific breakdowns, step-by-step frameworks, or final takeaways, preserve them as dedicated slides when they are substantial. Do not drop source sections that represent the document's conclusion, hierarchy, or comparison framework.
+
+Quality self-check - before returning the JSON, verify for every slide:
+- Are any bullets too generic? Rewrite them with a concrete source insight.
+- Are any bullets merely saying something exists? Rewrite them to say how or why it matters.
+- Is every example attached to the topic it supports in the source?
+- Does each bullet preserve a concrete insight from the source?
+- Does each narration segment add explanation beyond its bullet?
+- If the source contains important numbers or rankings, did the output preserve the most relevant ones?
+Fix any violations before responding.
+
 9. Respond with ONLY the JSON object described above.
 
 Here is an example of ONE correctly structured slide:

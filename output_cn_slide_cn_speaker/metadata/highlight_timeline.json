@@ -1,0 +1,639 @@
+[
+  {
+    "slide_index": 1,
+    "image_path": "output_cn_slide_cn_speaker/slide_images/slide_01.png",
+    "audio_duration": 33.888,
+    "highlights": [
+      {
+        "bullet_index": 0,
+        "narration_segment_index": 1,
+        "start": 5.16,
+        "end": 15.864,
+        "duration": 10.704,
+        "box": {
+          "x": 90,
+          "y": 244,
+          "w": 439,
+          "h": 56
+        },
+        "text": "主要部门包括广告、AI、云和增长"
+      },
+      {
+        "bullet_index": 1,
+        "narration_segment_index": 2,
+        "start": 15.864,
+        "end": 25.056,
+        "duration": 9.192,
+        "box": {
+          "x": 90,
+          "y": 316,
+          "w": 304,
+          "h": 56
+        },
+        "text": "不同公司重视部门不同"
+      },
+      {
+        "bullet_index": 2,
+        "narration_segment_index": 3,
+        "start": 25.056,
+        "end": 33.84,
+        "duration": 8.784,
+        "box": {
+          "x": 90,
+          "y": 388,
+          "w": 439,
+          "h": 56
+        },
+        "text": "例如：谷歌、亚马逊、微软、苹果"
+      }
+    ]
+  },
+  {
+    "slide_index": 2,
+    "image_path": "output_cn_slide_cn_speaker/slide_images/slide_02.png",
+    "audio_duration": 37.584,
+    "highlights": [
+      {
+        "bullet_index": 0,
+        "narration_segment_index": 1,
+        "start": 6.144,
+        "end": 14.688,
+        "duration": 8.544,
+        "box": {
+          "x": 90,
+          "y": 244,
+          "w": 277,
+          "h": 56
+        },
+        "text": "广告部门最接近收入"
+      },
+      {
+        "bullet_index": 1,
+        "narration_segment_index": 2,
+        "start": 14.688,
+        "end": 24.24,
+        "duration": 9.552,
+        "box": {
+          "x": 90,
+          "y": 316,
+          "w": 382,
+          "h": 56
+        },
+        "text": "Google和Meta依赖广告收入"
+      },
+      {
+        "bullet_index": 2,
+        "narration_segment_index": 3,
+        "start": 24.24,
+        "end": 37.536,
+        "duration": 13.296,
+        "box": {
+          "x": 90,
+          "y": 388,
+          "w": 284,
+          "h": 56
+        },
+        "text": "AWS与广告贡献显著"
+      }
+    ]
+  },
+  {
+    "slide_index": 3,
+    "image_path": "output_cn_slide_cn_speaker/slide_images/slide_03.png",
+    "audio_duration": 31.176,
+    "highlights": [
+      {
+        "bullet_index": 0,
+        "narration_segment_index": 1,
+        "start": 5.4,
+        "end": 13.584,
+        "duration": 8.184,
+        "box": {
+          "x": 90,
+          "y": 244,
+          "w": 331,
+          "h": 56
+        },
+        "text": "推荐系统提升参与和收入"
+      },
+      {
+        "bullet_index": 1,
+        "narration_segment_index": 2,
+        "start": 13.584,
+        "end": 24.24,
+        "duration": 10.656,
+        "box": {
+          "x": 90,
+          "y": 316,
+          "w": 304,
+          "h": 56
+        },
+        "text": "核心部门：搜索与排序"
+      },
+      {
+        "bullet_index": 2,
+        "narration_segment_index": 3,
+        "start": 24.24,
+        "end": 31.128,
+        "duration": 6.888,
+        "box": {
+          "x": 90,
+          "y": 388,
+          "w": 442,
+          "h": 56
+        },
+        "text": "例子：TikTok、Netflix、Amazon"
+      }
+    ]
+  },
+  {
+    "slide_index": 4,
+    "image_path": "output_cn_slide_cn_speaker/slide_images/slide_04.png",
+    "audio_duration": 29.064,
+    "highlights": [
+      {
+        "bullet_index": 0,
+        "narration_segment_index": 1,
+        "start": 5.304,
+        "end": 14.088,
+        "duration": 8.784,
+        "box": {
+          "x": 90,
+          "y": 244,
+          "w": 277,
+          "h": 56
+        },
+        "text": "增长关注数据与实验"
+      },
+      {
+        "bullet_index": 1,
+        "narration_segment_index": 2,
+        "start": 14.088,
+        "end": 20.808,
+        "duration": 6.72,
+        "box": {
+          "x": 90,
+          "y": 316,
+          "w": 277,
+          "h": 56
+        },
+        "text": "涵盖用户获取与留存"
+      },
+      {
+        "bullet_index": 2,
+        "narration_segment_index": 3,
+        "start": 20.808,
+        "end": 29.016,
+        "duration": 8.208,
+        "box": {
+          "x": 90,
+          "y": 388,
+          "w": 277,
+          "h": 56
+        },
+        "text": "大公司设有增长团队"
+      }
+    ]
+  },
+  {
+    "slide_index": 5,
+    "image_path": "output_cn_slide_cn_speaker/slide_images/slide_05.png",
+    "audio_duration": 31.704,
+    "highlights": [
+      {
+        "bullet_index": 0,
+        "narration_segment_index": 1,
+        "start": 5.496,
+        "end": 15.12,
+        "duration": 9.624,
+        "box": {
+          "x": 90,
+          "y": 244,
+          "w": 250,
+          "h": 56
+        },
+        "text": "并非所有团队重要"
+      },
+      {
+        "bullet_index": 1,
+        "narration_segment_index": 2,
+        "start": 15.12,
+        "end": 23.712,
+        "duration": 8.592,
+        "box": {
+          "x": 90,
+          "y": 316,
+          "w": 331,
+          "h": 56
+        },
+        "text": "核心团队控制入口与收入"
+      },
+      {
+        "bullet_index": 2,
+        "narration_segment_index": 3,
+        "start": 23.712,
+        "end": 31.656,
+        "duration": 7.944,
+        "box": {
+          "x": 90,
+          "y": 388,
+          "w": 443,
+          "h": 56
+        },
+        "text": "例子：Google、Amazon、Apple"
+      }
+    ]
+  },
+  {
+    "slide_index": 6,
+    "image_path": "output_cn_slide_cn_speaker/slide_images/slide_06.png",
+    "audio_duration": 35.64,
+    "highlights": [
+      {
+        "bullet_index": 0,
+        "narration_segment_index": 1,
+        "start": 5.328,
+        "end": 16.44,
+        "duration": 11.112,
+        "box": {
+          "x": 90,
+          "y": 244,
+          "w": 277,
+          "h": 56
+        },
+        "text": "云部门是AI时代基础"
+      },
+      {
+        "bullet_index": 1,
+        "narration_segment_index": 2,
+        "start": 16.44,
+        "end": 26.016,
+        "duration": 9.576,
+        "box": {
+          "x": 90,
+          "y": 316,
+          "w": 385,
+          "h": 56
+        },
+        "text": "微软Azure与AWS是盈利引擎"
+      },
+      {
+        "bullet_index": 2,
+        "narration_segment_index": 3,
+        "start": 26.016,
+        "end": 35.592,
+        "duration": 9.576,
+        "box": {
+          "x": 90,
+          "y": 388,
+          "w": 332,
+          "h": 56
+        },
+        "text": "Nvidia数据中心收入增长"
+      }
+    ]
+  },
+  {
+    "slide_index": 7,
+    "image_path": "output_cn_slide_cn_speaker/slide_images/slide_07.png",
+    "audio_duration": 30.768,
+    "highlights": [
+      {
+        "bullet_index": 0,
+        "narration_segment_index": 1,
+        "start": 5.808,
+        "end": 12.6,
+        "duration": 6.792,
+        "box": {
+          "x": 90,
+          "y": 244,
+          "w": 302,
+          "h": 56
+        },
+        "text": "AI/ML从研究转向生产"
+      },
+      {
+        "bullet_index": 1,
+        "narration_segment_index": 2,
+        "start": 12.6,
+        "end": 21.144,
+        "duration": 8.544,
+        "box": {
+          "x": 90,
+          "y": 316,
+          "w": 506,
+          "h": 56
+        },
+        "text": "核心领域包括LLMs、广告模型和AI安全"
+      },
+      {
+        "bullet_index": 2,
+        "narration_segment_index": 3,
+        "start": 21.144,
+        "end": 30.72,
+        "duration": 9.576,
+        "box": {
+          "x": 90,
+          "y": 388,
+          "w": 412,
+          "h": 56
+        },
+        "text": "Google、Microsoft等大举投资"
+      }
+    ]
+  },
+  {
+    "slide_index": 8,
+    "image_path": "output_cn_slide_cn_speaker/slide_images/slide_08.png",
+    "audio_duration": 30.576,
+    "highlights": [
+      {
+        "bullet_index": 0,
+        "narration_segment_index": 1,
+        "start": 5.544,
+        "end": 11.928,
+        "duration": 6.384,
+        "box": {
+          "x": 90,
+          "y": 244,
+          "w": 304,
+          "h": 56
+        },
+        "text": "数据部门指导产品决策"
+      },
+      {
+        "bullet_index": 1,
+        "narration_segment_index": 2,
+        "start": 11.928,
+        "end": 21.624,
+        "duration": 9.696,
+        "box": {
+          "x": 90,
+          "y": 316,
+          "w": 325,
+          "h": 56
+        },
+        "text": "使用A/B测试和因果分析"
+      },
+      {
+        "bullet_index": 2,
+        "narration_segment_index": 3,
+        "start": 21.624,
+        "end": 30.528,
+        "duration": 8.904,
+        "box": {
+          "x": 90,
+          "y": 388,
+          "w": 385,
+          "h": 56
+        },
+        "text": "角色包括数据科学家和工程师"
+      }
+    ]
+  },
+  {
+    "slide_index": 9,
+    "image_path": "output_cn_slide_cn_speaker/slide_images/slide_09.png",
+    "audio_duration": 27.96,
+    "highlights": [
+      {
+        "bullet_index": 0,
+        "narration_segment_index": 1,
+        "start": 6.12,
+        "end": 12.912,
+        "duration": 6.792,
+        "box": {
+          "x": 90,
+          "y": 244,
+          "w": 331,
+          "h": 56
+        },
+        "text": "信任与安全部门必不可少"
+      },
+      {
+        "bullet_index": 1,
+        "narration_segment_index": 2,
+        "start": 12.912,
+        "end": 20.544,
+        "duration": 7.632,
+        "box": {
+          "x": 90,
+          "y": 316,
+          "w": 358,
+          "h": 56
+        },
+        "text": "关注合规、内容安全与安全"
+      },
+      {
+        "bullet_index": 2,
+        "narration_segment_index": 3,
+        "start": 20.544,
+        "end": 27.912,
+        "duration": 7.368,
+        "box": {
+          "x": 90,
+          "y": 388,
+          "w": 331,
+          "h": 56
+        },
+        "text": "大公司优先投资这些领域"
+      }
+    ]
+  },
+  {
+    "slide_index": 10,
+    "image_path": "output_cn_slide_cn_speaker/slide_images/slide_10.png",
+    "audio_duration": 31.272,
+    "highlights": [
+      {
+        "bullet_index": 0,
+        "narration_segment_index": 1,
+        "start": 6.0,
+        "end": 15.552,
+        "duration": 9.552,
+        "box": {
+          "x": 90,
+          "y": 244,
+          "w": 439,
+          "h": 56
+        },
+        "text": "市场部门对亚马逊和苹果至关重要"
+      },
+      {
+        "bullet_index": 1,
+        "narration_segment_index": 2,
+        "start": 15.552,
+        "end": 23.592,
+        "duration": 8.04,
+        "box": {
+          "x": 90,
+          "y": 316,
+          "w": 304,
+          "h": 56
+        },
+        "text": "涵盖物流、支付和履约"
+      },
+      {
+        "bullet_index": 2,
+        "narration_segment_index": 3,
+        "start": 23.592,
+        "end": 31.224,
+        "duration": 7.632,
+        "box": {
+          "x": 90,
+          "y": 388,
+          "w": 331,
+          "h": 56
+        },
+        "text": "服务收入对苹果至关重要"
+      }
+    ]
+  },
+  {
+    "slide_index": 11,
+    "image_path": "output_cn_slide_cn_speaker/slide_images/slide_11.png",
+    "audio_duration": 30.24,
+    "highlights": [
+      {
+        "bullet_index": 0,
+        "narration_segment_index": 1,
+        "start": 6.432,
+        "end": 14.352,
+        "duration": 7.92,
+        "box": {
+          "x": 90,
+          "y": 244,
+          "w": 304,
+          "h": 56
+        },
+        "text": "开发平台锁定生态系统"
+      },
+      {
+        "bullet_index": 1,
+        "narration_segment_index": 2,
+        "start": 14.352,
+        "end": 21.984,
+        "duration": 7.632,
+        "box": {
+          "x": 90,
+          "y": 316,
+          "w": 297,
+          "h": 56
+        },
+        "text": "如微软Azure和谷歌云"
+      },
+      {
+        "bullet_index": 2,
+        "narration_segment_index": 3,
+        "start": 21.984,
+        "end": 30.192,
+        "duration": 8.208,
+        "box": {
+          "x": 90,
+          "y": 388,
+          "w": 386,
+          "h": 56
+        },
+        "text": "Nvidia用开发工具构建护城河"
+      }
+    ]
+  },
+  {
+    "slide_index": 12,
+    "image_path": "output_cn_slide_cn_speaker/slide_images/slide_12.png",
+    "audio_duration": 30.768,
+    "highlights": [
+      {
+        "bullet_index": 0,
+        "narration_segment_index": 1,
+        "start": 4.848,
+        "end": 13.392,
+        "duration": 8.544,
+        "box": {
+          "x": 90,
+          "y": 244,
+          "w": 493,
+          "h": 56
+        },
+        "text": "第一层级：广告、推荐、核心产品、云"
+      },
+      {
+        "bullet_index": 1,
+        "narration_segment_index": 2,
+        "start": 13.392,
+        "end": 21.84,
+        "duration": 8.448,
+        "box": {
+          "x": 90,
+          "y": 316,
+          "w": 520,
+          "h": 56
+        },
+        "text": "第二层级：增长、数据科学、市场、信任"
+      },
+      {
+        "bullet_index": 2,
+        "narration_segment_index": 3,
+        "start": 21.84,
+        "end": 30.72,
+        "duration": 8.88,
+        "box": {
+          "x": 90,
+          "y": 388,
+          "w": 574,
+          "h": 56
+        },
+        "text": "第三层级：企业销售、人力资源、运营、法律"
+      }
+    ]
+  },
+  {
+    "slide_index": 13,
+    "image_path": "output_cn_slide_cn_speaker/slide_images/slide_13.png",
+    "audio_duration": 30.528,
+    "highlights": [
+      {
+        "bullet_index": 0,
+        "narration_segment_index": 1,
+        "start": 4.248,
+        "end": 13.968,
+        "duration": 9.72,
+        "box": {
+          "x": 90,
+          "y": 244,
+          "w": 471,
+          "h": 56
+        },
+        "text": "Google: 搜索、广告、YouTube、云"
+      },
+      {
+        "bullet_index": 1,
+        "narration_segment_index": 2,
+        "start": 13.968,
+        "end": 22.392,
+        "duration": 8.424,
+        "box": {
+          "x": 90,
+          "y": 316,
+          "w": 459,
+          "h": 56
+        },
+        "text": "Amazon: AWS、市场、物流、广告"
+      },
+      {
+        "bullet_index": 2,
+        "narration_segment_index": 3,
+        "start": 22.392,
+        "end": 30.48,
+        "duration": 8.088,
+        "box": {
+          "x": 90,
+          "y": 388,
+          "w": 457,
+          "h": 56
+        },
+        "text": "Apple: iPhone、服务、生态、隐私"
+      }
+    ]
+  }
+]

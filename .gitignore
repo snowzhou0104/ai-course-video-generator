@@ -1,25 +1,32 @@
 # Virtual environment
 venv/
 .venv/
-.env
 
 # Python
 __pycache__/
 *.pyc
 *.pyo
+.pytest_cache/
 
 # Environment variables
 .env
 
-# Generated course outputs (regenerate via main.py)
-output/*.json
-output/*.pptx
-output/*.srt
-output/*.mp4
-output/slide_images/
-output/audio/
-output/metadata/
+# Streamlit uploads and scratch output folders
+input/streamlit_uploads/
+output_streamlit/
+output_streamlit*/
+output_backup_*/
+output_subtest/
+temp_subtitles.srt
+check.png
 
 # OS files
 Thumbs.db
 .DS_Store
+
+# NOTE: The three canonical demo output folders
+# (output_en_slide_en_speaker/, output_en_slide_cn_speaker/,
+# output_cn_slide_cn_speaker/) are intentionally NOT ignored.
+
+# Local AI coding tool settings
+.claude/
